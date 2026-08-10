@@ -47,13 +47,11 @@ https://sinop.unemat.br/faculdades/facet/graduacao/sistemas-de-informacao-bachar
 
 ## 📅 4.1. Calendário geral da universidade
 
-Calendário de aulas (previstas no calendário) p/ 2025/2: Consulte o calendário oficial do curso e da universidade.
+[Calendário de aulas (previstas no calendário) p/ 2026/2: Consulte o calendário oficial do curso e da universidade](https://cms.unemat.br/storage/documentos/bloco-documento-arquivo/fJ9RajdZkgQQKiF9p8LMmD1b5jYTsRg2FnuiunZf.pdf)
 
-https://cms.unemat.br/storage/documentos/bloco-documento-arquivo/aaNWXBQJxi8IrrP7xLnGfQ1vhKxtK2lATxEcVCQ8.pdf
+## ⏲️ 4.2. Horário do curso de Sistemas de Informação 2026/2
 
-## ⏲️ 4.2. Horário do curso de Sistemas de Informação 2025/2
-
-https://docs.google.com/spreadsheets/d/1JZYbMlaZ6vlYTFXIZ84s1rfjqsmQ4gVvq8qAMJO-j_I
+[Quadro de horário](https://docs.google.com/spreadsheets/d/1oibwLMOY7XB9n_I1C9LdFjOiG3BJue3TBDRFvUqzy7s/edit?gid=140192261#gid=140192261)
 
 
 
