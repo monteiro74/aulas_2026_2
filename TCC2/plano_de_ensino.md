@@ -1,35 +1,6 @@
 * Plano de curso - TCC2
 
-* FACET-SNP-337 - TRABALHO DE CONCLUSÃO DE CURSO II - T01 (2025.2)
-
-- [:game\_die: 1. Turma: TCC2](#game_die-1-turma-tcc2)
-  - [:watch: 1.1. Carga Horária Total: 30](#watch-11-carga-horária-total-30)
-  - [:hourglass\_flowing\_sand: 1.2. Horário: 30 horas.](#hourglass_flowing_sand-12-horário-30-horas)
-  - [:page\_with\_curl: 1.3. Ementa](#page_with_curl-13-ementa)
-  - [:page\_with\_curl: 1.4. Metodologia](#page_with_curl-14-metodologia)
-  - [:page\_with\_curl: 1.5. Procedimentos de avaliação de aprendizagem](#page_with_curl-15-procedimentos-de-avaliação-de-aprendizagem)
-  - [:hourglass\_flowing\_sand: 1.6. Horário de atendimento](#hourglass_flowing_sand-16-horário-de-atendimento)
-- [:date: 2. Datas de aulas e conteúdo](#date-2-datas-de-aulas-e-conteúdo)
-- [:date: 3. Datas de avaliações](#date-3-datas-de-avaliações)
-- [:books: 4. Referências](#books-4-referências)
-- [💾 5. Arquivos](#-5-arquivos)
-- [:alarm\_clock: 6. Professores x áreas de orientação](#alarm_clock-6-professores-x-áreas-de-orientação)
-  - [🧑‍🎓 6.1. Relação Aluno x Professor x Tema:](#-61-relação-aluno-x-professor-x-tema)
-- [📆 7. Calendário geral](#-7-calendário-geral)
-- [📆 8. Calendário de bancas](#-8-calendário-de-bancas)
-- [📺 9. Vídeos recomendados](#-9-vídeos-recomendados)
-  - [9.1. Abstract ou resumo em um artigo científico](#91-abstract-ou-resumo-em-um-artigo-científico)
-  - [9.2. Palavras chave em um artigo científico](#92-palavras-chave-em-um-artigo-científico)
-  - [9.3. Introdução em um artigo científico](#93-introdução-em-um-artigo-científico)
-  - [9.4. Trabalhos relacionados em um artigo científico](#94-trabalhos-relacionados-em-um-artigo-científico)
-  - [9.5. Materais e Métodos (Modelo proposto) em um artigo científico](#95-materais-e-métodos-modelo-proposto-em-um-artigo-científico)
-  - [9.6. Avaliação, Resultados e Discussão em um artigo científico](#96-avaliação-resultados-e-discussão-em-um-artigo-científico)
-  - [9.7. Conclusão](#97-conclusão)
-- [🚧 10. Estrutura do artigo:](#-10-estrutura-do-artigo)
-- [🧱 11. Ordem de entrega de documentos:](#-11-ordem-de-entrega-de-documentos)
-- [12. Estatísticas de TCC](#12-estatísticas-de-tcc)
-  - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
-
+* FACET-SNP-337 - TRABALHO DE CONCLUSÃO DE CURSO II - T01 (2026.2)
 
 
 
@@ -73,46 +44,46 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 ---
 ## :date: 2. Datas de aulas e conteúdo
 
-28/02/2026 Aula 1: Orientações sobre o TCC com o prof. de TCC
+//2026 Aula 1: Orientações sobre o TCC com o prof. de TCC
 
-07/03/2026 Aula 2: Orientações sobre o TCC com o prof. de TCC.
+//2026 Aula 2: Orientações sobre o TCC com o prof. de TCC.
 
-14/03/2026 Aula 3: Acompanhamento do trabalho aluno-orientador.
+//2026 Aula 3: Acompanhamento do trabalho aluno-orientador.
 
-21/03/2026 Aula 4: Aula 3: Acompanhamento do trabalho aluno-orientador.
+//2026 Aula 4: Aula 3: Acompanhamento do trabalho aluno-orientador.
 	
-28/03/2026 Aula 5: Avaliação 1. Entrega de termos de orientação.
+//2026 Aula 5: Avaliação 1. Entrega de termos de orientação.
 	
-11/04/2026 Aula 6: Acompanhamento do trabalho aluno-orientador.
+//2026 Aula 6: Acompanhamento do trabalho aluno-orientador.
 	
-18/04/2026 Aula 7: Acompanhamento do trabalho aluno-orientador.
+//2026 Aula 7: Acompanhamento do trabalho aluno-orientador.
 	
-25/04/2026 Aula 8: Acompanhamento do trabalho aluno-orientador.
+//2026 Aula 8: Acompanhamento do trabalho aluno-orientador.
 
 Reunião do dia 29 de abril Slides https://docs.google.com/presentation/d/11jcbkLn7c41WoA0bhDPnzClxm2RYLJ2pBQ66Z0aKlXQ/edit?usp=view
 
-09/05/2026 Aula 9: Acompanhamento do trabalho aluno-orientador.
+//2026 Aula 9: Acompanhamento do trabalho aluno-orientador.
 	
-16/05/2026 Aula 10: Acompanhamento do trabalho aluno-orientador.
+//2026 Aula 10: Acompanhamento do trabalho aluno-orientador.
 	
-23/05/2026 Aula 11: Acompanhamento do trabalho aluno-orientador.
+//2026 Aula 11: Acompanhamento do trabalho aluno-orientador.
 	
-30/05/2026 Aula 12: Avaliação 2. Entrega de trabalho para banca.
+//2026 Aula 12: Avaliação 2. Entrega de trabalho para banca.
 	
-30/05/2026 Aula 13: Acompanhamento do trabalho aluno-orientador. Bancas.
+//2026 Aula 13: Acompanhamento do trabalho aluno-orientador. Bancas.
 	
-13/06/2026 Aula 14: Acompanhamento do trabalho aluno-orientador. Bancas.
+//2026 Aula 14: Acompanhamento do trabalho aluno-orientador. Bancas.
 	
-20/06/2026 Aula 15: Acompanhamento do trabalho aluno-orientador. Bancas.
+//2026 Aula 15: Acompanhamento do trabalho aluno-orientador. Bancas.
 	
-27/06/2026 Aula 16: Acompanhamento do trabalho aluno-orientador. Bancas.
+//2026 Aula 16: Acompanhamento do trabalho aluno-orientador. Bancas.
 
 
 ## :date: 3. Datas de avaliações
 
-* Avaliação 1: 21/03/2026
-* Avaliação 2: 30/05/2026
-* Avaliação 3: 13/06/2026
+* Avaliação 1: / /2026
+* Avaliação 2: / /2026
+* Avaliação 3: / /2026
 
 
 ---
@@ -189,30 +160,9 @@ No momento os professores que temos no curso são:
 
 |Id |Aluno                           | Professor          | Tema | 1ª Entrega |2ª Entrega |3ª Entrega |
 |--|---------------------------------|--------------------|---------|-----------------|---|---|
-| 1| ANA KAROLINE DA SILVA DE SOUSA | JULIANO FERNANDES DE AVILA  | Site para tutores e pet sitters	| ✔️ | ✔️ | |
-| 2| CAMILA WEBER  | EMILIANO SOARES MONTEIRO | SISTEMA PARA GESTÃO DE ASSISTÊNCIA TÉCNICA	|✔️ | ✔️ | ✔️ |
-| 3| CARLOS EDUARDO CONCEIÇÃO DA SILVA  | BENEVID FELIZ DA SILVA | Assistente Virtual Especializado em Drywall/Steel Frame	| ✔️ | ✔️ | |
-| 4| DEOCLIDES ORMOND BORGES  | FRANCISCO SANCHES BANHOS FILHO | Implantação de um servidor no cartório do 1° Ofício de Sorriso utilizando virtualização, ver estudo de caso	| ✔️ |  | |
-| 5| DOUGLAS FIORELO ANDERLE DE OLIVEIRA  | JOÃO RICARDO DOS SANTOS ROSA | Experiência do Usuário: Otica Geracional	| ✔️ | ✔️ | |
-| 6| EDUARDO POSSAMAI  | FRANCISCO SANCHES BANHOS FILHO  |  Pesca Digital: O uso da tecnologia para construção de audiência no Instagram	| ✔️  | ✔️ | |
-| 7| EMANUELLE ANJOLIN ZUNTINI  | BENEVID FELIZ DA SILVA | Aplicação de Modelos de Linguagem de Grande Escala (LLMs) na Automação do Atendimento Comercial em Concessionárias	| ✔️ | ✔️ | |
-| 8| FELIPE LEAL ALVES  | ELIAS ANTÔNIO MORGAN | Desenvolvimento de uma extensão de navegador para assistência e interação inteligente com páginas Web baseada em IA	| ✔️ |  | |
-| 9| GLADSON JAIR BENTZ  | JANECLER FOPPA | Detecção de Gases Baseado em Princípio Biomimético	| ✔️ | ✔️ | ✔️ |
-|10| GLAUCIMAR APARECIDA DE SIQUEIRA  | MAICON APARECIDO SARTIN | Redes Neurais Convolucionais Aplicadas a Diagnose de Doenças Foliares da Soja	| ✔️ |  | |
-|11| GUILHERME DE CARVALHO FERNANDES  | FRANCISCO SANCHES BANHOS FILHO | Aplicação de Business Intelligence na Análise de Ocorrências Aeronáuticas: Desenvolvimento de Dashboards Interativos para a Aviação Civil Brasileira	| ✔️ | ✔️ | |
-|12| IZABELA AMARAL DE SOUZA   | MAICON APARECIDO SARTIN | Treinando um modelo de rede neural para estimativa de parâmetros agrícolas	| ✔️ | ✔️ | |
-|13| JANAINA LIMA VIANA  | IVAN LUIZ PEDROSO PIRES | PONTE: plataforma de gerenciamento de dados agrícolas 	| ✔️ | ✔️ | |
-|14| JOÃO VICTOR POLONIATO BUSS  |MAICON APARECIDO SARTIN  | Arquitetura Inteligente para Extração e Estruturação de Informações em Sistemas de Operadoras de Saúde	| ✔️ | ✔️ | ✔️ |
-|15| JOÃO VITOR THEODORO DE SOUZA  | BENEVID FELIZ DA SILVA | Fluxo Online de Denúncias e Feedbacks para Problemas Urbanos em Sinop/MT	| ✔️ | ✔️ | |
-|16| KAILA GIOVANNA ALVES MARTINS DA SILVA  | JANECLER FOPPA  | Modelagem de Regras de Negócio da ANS para Sistemas de Cobrança em Operadoras de Saúde	| ✔️ | ✔️ |✔️ |
-|17| LEONARDO LOPES RICCI  | JOAO RICARDO DOS SANTOS ROSA | DESENVOLVIMENTO DE UMA PLATAFORMA WEB PARA ACOMPANHAMENTO E MONITORAMENTO DE SAÚDE MENTAL	| ✔️ | ✔️ | |
-|18| MARCOS JUNIOR DA SILVA  | JOAO RICARDO DOS SANTOS ROSA | Análise de User eXperience e Usabilidade da Plataforma Lattes: Identificação de Barreiras e Recomendações de Melhoria, da área de Ciência da Computação.	| ✔️ | ✔️ | |
-|19| MAYCON RAMATIS BRUGNERA VASCONCELLOS  | RAMILTON COSTA GOMES JUNIOR | App Inclusivo: Descrição de Imagens para Pessoas com Deficiência Visual	| ✔️ |  | |
-|20| PAULO HENRIQUE DOS SANTOS  | JOAO RICARDO DOS SANTOS ROSA | Avaliando a plataforma Ava como tecnologia assistiva para pessoas surdas e deficientes auditivos, sob a perspectiva da Acessibilidade, Usabilidade e User eXperience	| ✔️ | ✔️ | |
-|21| PEDRO SALVADOR DE ARAUJO | JULIANO FERNANDES DE AVILA | GESTÃO DE CONTRATOS DE LOCAÇÃO, da área de DESENVOLVIMENTO WEB	| ✔️ |  | |
-|22| RAFAELA BOHRER  | ELISANGELA DIAS BRUGNERA | Literacia Digital: Um Compilado de Jogos Digitais para Educação	| ✔️ | ✔️ | ✔️|
-|23| WILHAN AZEVEDO DIONIZIO  | IVAN LUIZ PEDROSO PIRES | Plenatto - Sistema de Votação em Tempo Real para Câmara Municipal	| ✔️ | ✔️ | |
-|24| WILLIAN DE CARVALHO NOGUEIRA  | JANECLER FOPPA | Protótipo de Simulados on-line do Revalida em Ambiente Web	| ✔️ | ✔️ | |
+|  |  |   | 	|  |  | |
+|  |  |  | 	| |  |  |
+|  |  |  | 	|  |  | |
 
 
 Total de alunos matriculados: ...<br>
@@ -228,7 +178,7 @@ Total de entregas na 3a etapa: ...<br>
 ---
 ## 📆 8. Calendário de bancas
 
-[Calendário de bancas](https://docs.google.com/spreadsheets/d/1EwQFPXRxcJN9Hn7BAvtGPc0XovEF3pRXWC8Over-3sI/edit?usp=view)
+[Calendário de bancas]()
 
 ---
 ## 📺 9. Vídeos recomendados
