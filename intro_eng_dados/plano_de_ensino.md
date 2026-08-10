@@ -1,55 +1,8 @@
 **Plano de curso de Introdução a Engenharia de Dados**
 
-* FACET-SNP-317 - INTRODUÇÃO À ENGENHARIA DE DADOS - T01 (2025.2 - 4N123)
+* FACET-SNP-317 - INTRODUÇÃO À ENGENHARIA DE DADOS - T01 (2026.2 - 4N123)
 
-- [:game\_die: 1. Turma: Introdução a Engenharia de Dados](#game_die-1-turma-introdução-a-engenharia-de-dados)
-  - [:watch: 1.1. Carga Horária Total: 60](#watch-11-carga-horária-total-60)
-  - [Sala C7, Quarta feira: 19hs.](#sala-c7-quarta-feira-19hs)
-  - [:hourglass\_flowing\_sand: 1.2. Horário: 19hs - 22hs](#hourglass_flowing_sand-12-horário-19hs---22hs)
-  - [:page\_with\_curl: 1.3. Ementa](#page_with_curl-13-ementa)
-  - [:page\_with\_curl: 1.4. Metodologia](#page_with_curl-14-metodologia)
-  - [:page\_with\_curl: 1.5. Procedimentos de avaliação de aprendizagem](#page_with_curl-15-procedimentos-de-avaliação-de-aprendizagem)
-  - [:hourglass\_flowing\_sand: 1.6. Horário de atendimento](#hourglass_flowing_sand-16-horário-de-atendimento)
-- [:globe\_with\_meridians: 2. Sites utilizados](#globe_with_meridians-2-sites-utilizados)
-- [:abacus: 3. Repositórios de apoio](#abacus-3-repositórios-de-apoio)
-- [:date: 4. Datas de aulas e conteúdo](#date-4-datas-de-aulas-e-conteúdo)
-  - [4.1. Exercícios, para o banco de dados após a importação dos CSV](#41-exercícios-para-o-banco-de-dados-após-a-importação-dos-csv)
-    - [4.1.1. Tamanho total do banco de dados](#411-tamanho-total-do-banco-de-dados)
-    - [4.1.2. Tamanho do banco de dados em Gb](#412-tamanho-do-banco-de-dados-em-gb)
-    - [4.1.3. Tamanho do banco de dados em Mb](#413-tamanho-do-banco-de-dados-em-mb)
-    - [4.1.4. Apresenta a quantidade de registros](#414-apresenta-a-quantidade-de-registros)
-    - [4.1.5. Exercício 1 com Orange Data Mining](#415-exercício-1-com-orange-data-mining)
-    - [4.1.6. Exercício 2, DER](#416-exercício-2-der)
-    - [4.1.7. Exercício com Docker, Grafana, Superset e Metabase](#417-exercício-com-docker-grafana-superset-e-metabase)
-    - [4.1.8. Exercício com Streamlit](#418-exercício-com-streamlit)
-- [:date: 5. Datas de avaliações](#date-5-datas-de-avaliações)
-- [:hammer\_and\_wrench: 6. Ferramentas](#hammer_and_wrench-6-ferramentas)
-- [:books: 7. Livros (básicos)](#books-7-livros-básicos)
-- [:newspaper: 8. Artigos (referências bibliográficas complementares)](#newspaper-8-artigos-referências-bibliográficas-complementares)
-  - [:books: 8.1. Outras referências complementares](#books-81-outras-referências-complementares)
-- [:notebook: 9. Cursos gratuítos (opcionais)](#notebook-9-cursos-gratuítos-opcionais)
-  - [:notebook:  9.1. Cursos sobre BI com Scriptcase](#notebook--91-cursos-sobre-bi-com-scriptcase)
-- [:green\_book: 10. Como estudar (dicas)](#green_book-10-como-estudar-dicas)
-- [:family\_man\_woman\_girl\_boy:  11. Grupos no telegram](#family_man_woman_girl_boy--11-grupos-no-telegram)
-- [:tv: 12. Videos recomendados (material opcional)](#tv-12-videos-recomendados-material-opcional)
-- [:office: 13. Projetos da fundação Apache e suas características](#office-13-projetos-da-fundação-apache-e-suas-características)
-- [:alarm\_clock: 14. Carga horária de 15hs adicionais (remota/online)](#alarm_clock-14-carga-horária-de-15hs-adicionais-remotaonline)
-  - [🎓 14.1. Playlist de Introdução à Engenharia de Dados (até 15h)](#-141-playlist-de-introdução-à-engenharia-de-dados-até-15h)
-  - [📺 14.2. Playlist: Fundamentos de Engenharia de Dados (14h)](#-142-playlist-fundamentos-de-engenharia-de-dados-14h)
-    - [🎓 14.2.1 Introdução à Engenharia de Dados](#-1421-introdução-à-engenharia-de-dados)
-    - [🧩 14.2.2. Modelagem de Dados](#-1422-modelagem-de-dados)
-    - [🔄 14.2.3. ETL (Extract, Transform, Load)](#-1423-etl-extract-transform-load)
-    - [🏢 14.2.4. Data Warehouse](#-1424-data-warehouse)
-    - [🌊 14.2.5. Data Lake](#-1425-data-lake)
-    - [🧪 14.2.6. Pipelines de Dados](#-1426-pipelines-de-dados)
-    - [🔐 14.2.7. Governança de Dados](#-1427-governança-de-dados)
-    - [📊 14.2.8. Big Data](#-1428-big-data)
-  - [📄 14.3. Artigos Científicos Open Access sobre Engenharia de Dados](#-143-artigos-científicos-open-access-sobre-engenharia-de-dados)
-- [📄 15. Exemplos usados em sala de aula](#-15-exemplos-usados-em-sala-de-aula)
-- [📄 16. Assuntos diversos](#-16-assuntos-diversos)
-  - [16.1. Vagas de emprego para "Engenheiro de dados":](#161-vagas-de-emprego-para-engenheiro-de-dados)
-  - [16.2. Pesquisa Salarial:](#162-pesquisa-salarial)
-- [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
+
 
 
 
@@ -108,15 +61,9 @@ Temos 15 encontros presenciais, sequênciais, 1 ves por semana; nos encontros 5,
 
 Carga Horária Remota (EAD):
 
- 
-
 A carga horária remota (15 horas) será desenvolvida por meio de atividades orientadas de aprendizagem assíncrona, complementares às aulas presenciais, com o objetivo de aprofundar conceitos, promover autonomia acadêmica e preparar o estudante para as avaliações da disciplina.
 
- 
-
 As atividades EAD deverão ser realizadas pelos alunos ao longo do semestre, conforme cronograma disponibilizado pelo professor, podendo incluir:
-
- 
 
 a) Leitura orientada de artigos científicos e/ou materiais técnicos selecionados pelo professor, disponibilizados no SIGAA, site da disciplina ou repositório oficial no GitHub. Os conteúdos poderão ser discutidos em sala de aula e/ou cobrados nas avaliações presenciais.
 
@@ -183,97 +130,32 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-|  1  | 25/fev | 3hs          | Apresentação da disciplina. Conceitos de engenharia de dados.  Conceitos, exemplos de big data, diferenças entre engenharia de dados x análise de dados x cientísta de dados; atribuições dos profissionais; ETL xELT; conceitos de Data warehouse, data mart, data lake e virtualização de dados. Comentários sobre as referências bibliográficas. <br> Exercício: 1) Instalar o MySQL. 2) Criar um banco de dados. 3) Baixar o banco de dados de CNPJ aberto da receita federal. 4) Descompactar os arquivos. 5) No banco de dados, use o documento dicionário de dados do CNPJ para criar as tabelas. 6) importe os dados que você descompactou para dentro das tabelas no banco de dados. [Slides da aula](https://docs.google.com/presentation/d/1Vm71yCUzFgaIy9GCKeHFEnqk2GjeQbPdMw9fpVj-kFo/edit?usp=view); [Slides das referências](https://docs.google.com/presentation/d/1Tlj7dy0AZwLY0M42WQ-jSgv3xfmNWA7pDfoorcS3HmU/edit?usp=view);  [Página com dados abertos da Receita Federal sobre CNPJ](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj); [Dicionário dos dados abertos](https://www.gov.br/receitafederal/dados/cnpj-metadados.pdf)<br> |
-|  2  | 04/mar | 3hs          | Processo KDD, Mineração x aprendizado de máquina, processo CRISP DM, dados não estruturados x estruturados, acesso a dados transacionais, data lake, etl, ferramentas para data lake, AWS S3, MinIO. Na repositório da disciplinas estão os datasets e scripts python; [Slides de aula](https://docs.google.com/presentation/d/1v9RtnECfVh-NTGT7KP4wC6FrpScon8HrrvdiOqVwVOY/edit?usp=view); [Anaconda](https://www.anaconda.com/download/success).<br> |
-|  3  | 11/mar | 3hs          | Exercício com dados abertos. [Exercíco de importação de dados](https://docs.google.com/presentation/d/1wn-JtQWKtS4DqbYbXlRgJoXNGzWVOjS-wG3XfUBThpo/edit?usp=view), [Limpeza de dados](https://docs.google.com/presentation/d/1EhNHtAt0LguWZ9mg8MVqJ9DxWaRiXHm9XDvQFt3Ln4Q/edit?usp=view), [Orange Data Mining](https://docs.google.com/presentation/d/1n20wLJwAaG_DW2MdFVoD_U1yocRt_Edg58cW1Jq0t4w/edit?usp=view). |
-|  4  | 18/mar | 3hs          | [Classificação e clustering](https://docs.google.com/presentation/d/1veSECCY8wB-jPhUP8ysaUZEPwPWYoghKoioDfLzq2Q0/edit?usp=view), [Classificação e clustering no Orange](https://docs.google.com/presentation/d/1R6KfRqds_YG17RO14ZnzlxkqsKjgbUtp2dj2_h_B5wU/edit?usp=view). |
-|  5  | 25/mar | 3hs          | **Avaliação 1.** |
-|  6  | 01/abr | 3hs          | Análise de texto/sentimentos com Orange, dados abertos. 5 V. [Slide de aula 6](https://docs.google.com/presentation/d/182DUfGMuYvMQb9LFP1ZjcfR1apo_LV5Fa3xRpmzHboA/edit?usp=view), [Exercício com Orange](https://docs.google.com/presentation/d/1hFGZGEWyBtRNMiQMERUwoWI6PpRonG3Bf1p945k360E/edit?usp=view). |
-|  7  | 08/abr | 3hs          | Agrupamento ou clustering e classificação, DW e dados abertos. [Slides da aula 7](https://docs.google.com/presentation/d/1J7_DYCMxX_shbTu-deZyvSGPBCaeKowvHtwVeCYWzLU/edit?usp=view), [Ferramentas de IA local](https://docs.google.com/presentation/d/1p5VIa1-OwykB4Vnp6MBxeiRUyISqSoJ9lmLhnoSnlog/edit?usp=view), [Pentaho CE](https://docs.google.com/presentation/d/1TmcO6bIYdZm3kdS3BRYnkBKa5Mo0K7iSLrFFtDqyY34/edit?usp=view). [Exercício com Pentaho](https://docs.google.com/presentation/d/1uIpa_fWX76AnaCsie_GH2b8__eGt1bfQex4jrBQet6I/edit?usp=view). |
-|  8  | 15/abr | 3hs          | Enriquecimento de dados, big data, Pentaho, virtualização. [Bigdata](https://docs.google.com/presentation/d/1YS7Y8H41Il2a_fHGIwyaPSA2NRKjiiB6e7GyGkTO8Rw/edit?usp=view), [Enriquecimento de dados](https://docs.google.com/presentation/d/1XXY9lH4__jIvtpPTBYKUathpsts_ZBnKK-zp_QqRHyw/edit?usp=view), [Virtualização de dados](https://docs.google.com/presentation/d/11TWxuyo4jsy-Jp8cOUOuIYnDRpr3uNjUvk7nFDzscxk/edit?usp=view). [banco_origem](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/banco_origem.png) ou [banco de produção](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/producao.drawio.png), [banco_destino](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/banco_destino.png) ou [floco de neve](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/floco_de_neve.drawio.png), [DER dos dados abaertos da RF](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/der_rf.png), [Análise de sentimento](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/orange_analise_sentimento.png). <br>  Exercícios: <br>  1. Para quem ainda não terminou, elaborar o diagrama entidade relacionamento do banco de dados da receita federal.<br> 2. Instalar o pentaho e realizar uma movimentação de banco de dados. <br> 3. Via IDE python e jupiter notebook (disponíve no anaconda) rodar os script python,  (Jupiter Notebook com o script p5.ipynb). <br> 4. Rodar os 2 exemplos no Orange data mining (esta disponível no Anaconda), [análise de sentimento](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/orange_analise_sentimento.png). <br> 5. Rodar os scripts cnaes.py e empresas.py (devidamente adaptados aos seus bancos de dados). <br> 6. Rodar os scripts banco_origem.sql e banco_destino.sql no servidor MariaDB (ou MySQL), gerar os diagramas entidade relacionamento (um diagrama para cadas script). <br> |
-|  9  | 22/abr | 3hs          | [Exercício de conversão de dados (será comentado posteriormente a partir da aula 11!!)](https://docs.google.com/presentation/d/1fzikqIDUC_fq33RCP29qJdctrMT7ql9HtZXtgLlxIEs/edit?usp=view), [Análise de redes sociais](https://docs.google.com/presentation/d/1RTDx0zI5o-FVBK3VUo8bWF7ZN024Q18WbOu5435Wt2A/edit?usp=view), [Bibliometria](https://docs.google.com/presentation/d/1PDOvFjxK5ZWAFKZfIMCAUQn9LD4ziVQvNcazPrKgNB8/edit?usp=view),  [Grafana e Superset](https://docs.google.com/presentation/d/1EN17uBCqRoizqUA7Ks-haaKHqzbk5KzHdmA6KaNK4V8/edit?usp=view),  [openRefine](https://docs.google.com/presentation/d/1HKGPqFbHnFR-U8F6RxY8o1nI4qJvmi8g1XhQ-wBrb7k/edit?usp=view), [Catálogo, orquestração, Darkdata e datalineage](https://docs.google.com/presentation/d/1meqSAOjunpnwxfPhXipSN4bzjSlzY3sTFd2h_XDfM60/edit?usp=view). <br> Material (vídeos) sobre análise de sentimentos e twitter com Orange: <br> A) [Análise de sentimentos com o Orange: Percorrendo um texto](https://www.youtube.com/watch?v=pZuKsOi97QA), <br> B) [Text Mining: Sentiment Analysis](https://www.youtube.com/watch?v=7Fnli0wc11g), <br> C)  [Text Mining: Twitter Data Analysis](https://www.youtube.com/watch?v=HDkI6G4slzQ). |
-| 10  | 29/abr | 3hs          | **Avaliação 2.** |
-| 11  | 06/mai | 3hs          | Exercício com docker (Metabase, Grafana e Superset). [Slide do exercício](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2.png). |
-| 12  | 13/mai | 3hs          | [Regressão linear](https://docs.google.com/presentation/d/1bd5UZ62wFb7F1XeXEFBFAdLA2KV2cpxM1ZBUJWU_oEE/edit?usp=view), [Arquivo .RIS](https://docs.google.com/presentation/d/1RvnS6XpWFp9sDyX4lIv4C78kUh-jJlRyYJgYEHChsnY/edit?usp=view), [Qualidade de dados](https://docs.google.com/presentation/d/1X0h6NF3qZruEwUrlNrTsXUxJggSu1njwMDV2m55eV2c/edit?usp=view). [Exercício com streamlit](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2b.png) |
-| 13  | 20/mai | 3hs          | [Datastream Apache + kafka](https://docs.google.com/presentation/d/1snGmgBm35NcyToWhdV19NlSWDSrIheb6OGc5FSZ_br4/edit?usp=view), [Infra para ETL](https://docs.google.com/presentation/d/1ODjgeQxBUSfGrVMWXoRwJ5xEp-M7z07gyo19zJv8xpM/edit?usp=view), [Kibana](https://docs.google.com/presentation/d/1C5lFQBodAe5yzZYVYFCVyPe7AxvnjEEDfDPJnJBC2-Q/edit?usp=view), [Opentelemetry](https://docs.google.com/presentation/d/1H6b5eQqpgEBH6V3cuQPHfIEMwcHzjtnI27EhgdpoCtY/edit?usp=view), [Exemplo de caso de conversão de dados](https://docs.google.com/presentation/d/18FVMNXsMJxxNNf8HPqH-zXpyp_xhOlDDt6U0DAtk-os/edit?usp=view). [GitHub Contributions Chart Generator](https://github-contributions.vercel.app/). |
-| 14  | 27/jun | 3hs          | [Governança](https://docs.google.com/presentation/d/1_U5dWGyD9vK6BGI6PzmJvub9UGtBapXVZhD51CuKWB0/edit?usp=view), [openRefine](https://docs.google.com/presentation/d/1Zz4os7iKg6NMLe61-hhG-gl7QqpngMF8loEfHYK3dE8/edit?usp=view), [Tendências de engenharia de dados](https://docs.google.com/presentation/d/1RMUNpQeKUQY-r760ncQoQ5sjFkT9_JKTTopYFDv_njw/edit?usp=view). <br> Rodar IA Local: <br> 1.  [Como rodar IA LOCAL no seu PC (mesmo com 8GB RAM) + Ollama, Docker e WebUI](https://www.youtube.com/watch?v=BcDSMdqa2hQ), <br> 2.  [Instalei uma IA LOCAL Ollama e isso mudou TUDO… veja como fazer](https://www.youtube.com/watch?v=KTomBVjkRrM), <br> 3. [Testei modelos locais com Ollama: já dá para usar no dia a dia?](https://www.youtube.com/watch?v=u0AmA7DNog8), <br>  4. [TUTORIAL: RODANDO DEEPSEEK E OUTROS MODELOS ABERTOS NO OLLAMA  Tecnologia e Classe](https://www.youtube.com/watch?v=hTosCR9XZdI). |
-| 15  | 03/jun | 3hs          | **Avaliação 3.** |
+|  1  |  | 3hs          | Apresentação da disciplina. Conceitos de engenharia de dados.  Conceitos, exemplos de big data, diferenças entre engenharia de dados x análise de dados x cientísta de dados; atribuições dos profissionais; ETL xELT; conceitos de Data warehouse, data mart, data lake e virtualização de dados. Comentários sobre as referências bibliográficas. <br> Exercício: 1) Instalar o MySQL. 2) Criar um banco de dados. 3) Baixar o banco de dados de CNPJ aberto da receita federal. 4) Descompactar os arquivos. 5) No banco de dados, use o documento dicionário de dados do CNPJ para criar as tabelas. 6) importe os dados que você descompactou para dentro das tabelas no banco de dados. [Slides da aula](https://docs.google.com/presentation/d/1Vm71yCUzFgaIy9GCKeHFEnqk2GjeQbPdMw9fpVj-kFo/edit?usp=view); [Slides das referências](https://docs.google.com/presentation/d/1Tlj7dy0AZwLY0M42WQ-jSgv3xfmNWA7pDfoorcS3HmU/edit?usp=view);  [Página com dados abertos da Receita Federal sobre CNPJ](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj); [Dicionário dos dados abertos](https://www.gov.br/receitafederal/dados/cnpj-metadados.pdf)<br> |
+|  2  |  | 3hs          | Processo KDD, Mineração x aprendizado de máquina, processo CRISP DM, dados não estruturados x estruturados, acesso a dados transacionais, data lake, etl, ferramentas para data lake, AWS S3, MinIO. Na repositório da disciplinas estão os datasets e scripts python; [Slides de aula](https://docs.google.com/presentation/d/1v9RtnECfVh-NTGT7KP4wC6FrpScon8HrrvdiOqVwVOY/edit?usp=view); [Anaconda](https://www.anaconda.com/download/success).<br> |
+|  3  |  | 3hs          | Exercício com dados abertos. [Exercíco de importação de dados](https://docs.google.com/presentation/d/1wn-JtQWKtS4DqbYbXlRgJoXNGzWVOjS-wG3XfUBThpo/edit?usp=view), [Limpeza de dados](https://docs.google.com/presentation/d/1EhNHtAt0LguWZ9mg8MVqJ9DxWaRiXHm9XDvQFt3Ln4Q/edit?usp=view), [Orange Data Mining](https://docs.google.com/presentation/d/1n20wLJwAaG_DW2MdFVoD_U1yocRt_Edg58cW1Jq0t4w/edit?usp=view). |
+|  4  |  | 3hs          | [Classificação e clustering](https://docs.google.com/presentation/d/1veSECCY8wB-jPhUP8ysaUZEPwPWYoghKoioDfLzq2Q0/edit?usp=view), [Classificação e clustering no Orange](https://docs.google.com/presentation/d/1R6KfRqds_YG17RO14ZnzlxkqsKjgbUtp2dj2_h_B5wU/edit?usp=view). |
+|  5  |  | 3hs          | **Avaliação 1.** |
+|  6  |  | 3hs          | Análise de texto/sentimentos com Orange, dados abertos. 5 V. [Slide de aula 6](https://docs.google.com/presentation/d/182DUfGMuYvMQb9LFP1ZjcfR1apo_LV5Fa3xRpmzHboA/edit?usp=view), [Exercício com Orange](https://docs.google.com/presentation/d/1hFGZGEWyBtRNMiQMERUwoWI6PpRonG3Bf1p945k360E/edit?usp=view). |
+|  7  |  | 3hs          | Agrupamento ou clustering e classificação, DW e dados abertos. [Slides da aula 7](https://docs.google.com/presentation/d/1J7_DYCMxX_shbTu-deZyvSGPBCaeKowvHtwVeCYWzLU/edit?usp=view), [Ferramentas de IA local](https://docs.google.com/presentation/d/1p5VIa1-OwykB4Vnp6MBxeiRUyISqSoJ9lmLhnoSnlog/edit?usp=view), [Pentaho CE](https://docs.google.com/presentation/d/1TmcO6bIYdZm3kdS3BRYnkBKa5Mo0K7iSLrFFtDqyY34/edit?usp=view). [Exercício com Pentaho](https://docs.google.com/presentation/d/1uIpa_fWX76AnaCsie_GH2b8__eGt1bfQex4jrBQet6I/edit?usp=view). |
+|  8  |  | 3hs          | Enriquecimento de dados, big data, Pentaho, virtualização. [Bigdata](https://docs.google.com/presentation/d/1YS7Y8H41Il2a_fHGIwyaPSA2NRKjiiB6e7GyGkTO8Rw/edit?usp=view), [Enriquecimento de dados](https://docs.google.com/presentation/d/1XXY9lH4__jIvtpPTBYKUathpsts_ZBnKK-zp_QqRHyw/edit?usp=view), [Virtualização de dados](https://docs.google.com/presentation/d/11TWxuyo4jsy-Jp8cOUOuIYnDRpr3uNjUvk7nFDzscxk/edit?usp=view). [banco_origem](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/banco_origem.png) ou [banco de produção](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/producao.drawio.png), [banco_destino](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/banco_destino.png) ou [floco de neve](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/floco_de_neve.drawio.png), [DER dos dados abaertos da RF](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/der_rf.png), [Análise de sentimento](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/orange_analise_sentimento.png). <br>  Exercícios: <br>  1. Para quem ainda não terminou, elaborar o diagrama entidade relacionamento do banco de dados da receita federal.<br> 2. Instalar o pentaho e realizar uma movimentação de banco de dados. <br> 3. Via IDE python e jupiter notebook (disponíve no anaconda) rodar os script python,  (Jupiter Notebook com o script p5.ipynb). <br> 4. Rodar os 2 exemplos no Orange data mining (esta disponível no Anaconda), [análise de sentimento](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/orange_analise_sentimento.png). <br> 5. Rodar os scripts cnaes.py e empresas.py (devidamente adaptados aos seus bancos de dados). <br> 6. Rodar os scripts banco_origem.sql e banco_destino.sql no servidor MariaDB (ou MySQL), gerar os diagramas entidade relacionamento (um diagrama para cadas script). <br> |
+|  9  |  | 3hs          | [Exercício de conversão de dados (será comentado posteriormente a partir da aula 11!!)](https://docs.google.com/presentation/d/1fzikqIDUC_fq33RCP29qJdctrMT7ql9HtZXtgLlxIEs/edit?usp=view), [Análise de redes sociais](https://docs.google.com/presentation/d/1RTDx0zI5o-FVBK3VUo8bWF7ZN024Q18WbOu5435Wt2A/edit?usp=view), [Bibliometria](https://docs.google.com/presentation/d/1PDOvFjxK5ZWAFKZfIMCAUQn9LD4ziVQvNcazPrKgNB8/edit?usp=view),  [Grafana e Superset](https://docs.google.com/presentation/d/1EN17uBCqRoizqUA7Ks-haaKHqzbk5KzHdmA6KaNK4V8/edit?usp=view),  [openRefine](https://docs.google.com/presentation/d/1HKGPqFbHnFR-U8F6RxY8o1nI4qJvmi8g1XhQ-wBrb7k/edit?usp=view), [Catálogo, orquestração, Darkdata e datalineage](https://docs.google.com/presentation/d/1meqSAOjunpnwxfPhXipSN4bzjSlzY3sTFd2h_XDfM60/edit?usp=view). <br> Material (vídeos) sobre análise de sentimentos e twitter com Orange: <br> A) [Análise de sentimentos com o Orange: Percorrendo um texto](https://www.youtube.com/watch?v=pZuKsOi97QA), <br> B) [Text Mining: Sentiment Analysis](https://www.youtube.com/watch?v=7Fnli0wc11g), <br> C)  [Text Mining: Twitter Data Analysis](https://www.youtube.com/watch?v=HDkI6G4slzQ). |
+| 10  |  | 3hs          | **Avaliação 2.** |
+| 11  |  | 3hs          | Exercício com docker (Metabase, Grafana e Superset). [Slide do exercício](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2.png). |
+| 12  |  | 3hs          | [Regressão linear](https://docs.google.com/presentation/d/1bd5UZ62wFb7F1XeXEFBFAdLA2KV2cpxM1ZBUJWU_oEE/edit?usp=view), [Arquivo .RIS](https://docs.google.com/presentation/d/1RvnS6XpWFp9sDyX4lIv4C78kUh-jJlRyYJgYEHChsnY/edit?usp=view), [Qualidade de dados](https://docs.google.com/presentation/d/1X0h6NF3qZruEwUrlNrTsXUxJggSu1njwMDV2m55eV2c/edit?usp=view). [Exercício com streamlit](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2b.png) |
+| 13  |  | 3hs          | [Datastream Apache + kafka](https://docs.google.com/presentation/d/1snGmgBm35NcyToWhdV19NlSWDSrIheb6OGc5FSZ_br4/edit?usp=view), [Infra para ETL](https://docs.google.com/presentation/d/1ODjgeQxBUSfGrVMWXoRwJ5xEp-M7z07gyo19zJv8xpM/edit?usp=view), [Kibana](https://docs.google.com/presentation/d/1C5lFQBodAe5yzZYVYFCVyPe7AxvnjEEDfDPJnJBC2-Q/edit?usp=view), [Opentelemetry](https://docs.google.com/presentation/d/1H6b5eQqpgEBH6V3cuQPHfIEMwcHzjtnI27EhgdpoCtY/edit?usp=view), [Exemplo de caso de conversão de dados](https://docs.google.com/presentation/d/18FVMNXsMJxxNNf8HPqH-zXpyp_xhOlDDt6U0DAtk-os/edit?usp=view). [GitHub Contributions Chart Generator](https://github-contributions.vercel.app/). |
+| 14  |  | 3hs          | [Governança](https://docs.google.com/presentation/d/1_U5dWGyD9vK6BGI6PzmJvub9UGtBapXVZhD51CuKWB0/edit?usp=view), [openRefine](https://docs.google.com/presentation/d/1Zz4os7iKg6NMLe61-hhG-gl7QqpngMF8loEfHYK3dE8/edit?usp=view), [Tendências de engenharia de dados](https://docs.google.com/presentation/d/1RMUNpQeKUQY-r760ncQoQ5sjFkT9_JKTTopYFDv_njw/edit?usp=view). <br> Rodar IA Local: <br> 1.  [Como rodar IA LOCAL no seu PC (mesmo com 8GB RAM) + Ollama, Docker e WebUI](https://www.youtube.com/watch?v=BcDSMdqa2hQ), <br> 2.  [Instalei uma IA LOCAL Ollama e isso mudou TUDO… veja como fazer](https://www.youtube.com/watch?v=KTomBVjkRrM), <br> 3. [Testei modelos locais com Ollama: já dá para usar no dia a dia?](https://www.youtube.com/watch?v=u0AmA7DNog8), <br>  4. [TUTORIAL: RODANDO DEEPSEEK E OUTROS MODELOS ABERTOS NO OLLAMA  Tecnologia e Classe](https://www.youtube.com/watch?v=hTosCR9XZdI). |
+| 15  |  | 3hs          | **Avaliação 3.** |
 
 
-### 4.1. Exercícios, para o banco de dados após a importação dos CSV
+## :date: 4. Datas de avaliações
 
-#### 4.1.1. Tamanho total do banco de dados
-
-```SQL
-SELECT 
-    table_schema AS banco,
-    ROUND(SUM(data_length + index_length) / 1024 / 1024 / 1024, 2) AS tamanho_gb
-FROM information_schema.TABLES
-WHERE table_schema = 'rf'
-GROUP BY table_schema;
-```
-
-#### 4.1.2. Tamanho do banco de dados em Gb
-
-```SQL
-SELECT 
-    table_name AS tabela,
-    ROUND((data_length + index_length) / 1024 / 1024 / 1024, 2) AS tamanho_gb
-FROM information_schema.TABLES
-WHERE table_schema = 'rf'
-ORDER BY (data_length + index_length) DESC;
-```
-
-#### 4.1.3. Tamanho do banco de dados em Mb
-
-```SQL
-SELECT 
-    table_name AS tabela,
-    table_rows AS estimativa_registros,
-    ROUND((data_length + index_length)/1024/1024,2) AS tamanho_mb
-FROM information_schema.TABLES
-WHERE table_schema = 'rf'
-ORDER BY (data_length + index_length) DESC;
-```
-
-#### 4.1.4. Apresenta a quantidade de registros
-
-```SQL
-SELECT 
-    table_name AS tabela,
-    table_rows AS quantidade_registros
-FROM information_schema.TABLES
-WHERE table_schema = 'rf'
-ORDER BY table_rows DESC;
-```
-
-#### 4.1.5. Exercício 1 com Orange Data Mining
-
-![https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/exercicio_mini_orange.png](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/exercicio_mini_orange.png)
-
-#### 4.1.6. Exercício 2, DER
-
-![https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/der_rf.png](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/der_rf.png)
-
-
-#### 4.1.7. Exercício com Docker, Grafana, Superset e Metabase
-
-![https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2.png](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2.png)
-
-
-#### 4.1.8. Exercício com Streamlit
-
-![Exercício com streamlit](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/Exercicio2b.png)
-
-## :date: 5. Datas de avaliações
-
-* Avaliação 1: 25/03/2026
-* Avaliação 2: 29/04/2026
-* Avaliação 3: 03/06/2026
+* Avaliação 1: / /2026
+* Avaliação 2: / /2026
+* Avaliação 3: / /2026
 
 
 ---
-## :hammer_and_wrench: 6. Ferramentas
+## :hammer_and_wrench: 5. Ferramentas
 
 Algumas ferramentas são usadas e/ou comentadas em sala de aula (na lista abaixo da 1 até a 14) outras são comentadas.
 
@@ -344,7 +226,7 @@ https://www.youtube.com/watch?v=fNDJEjlYlCw
 43. Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
 
 ---
-## :books: 7. Livros (básicos)
+## :books: 6. Livros (básicos)
 
 * Ferrari, Leandro Nunes de Castro, Daniel G. Introdução à Mineração de Dados: Conceitos Básicos, Algoritmos e Aplicações. Editora Saraiva, 03/2016.
 
@@ -362,7 +244,7 @@ https://www.youtube.com/watch?v=fNDJEjlYlCw
 
 
 ---
-## :newspaper: 8. Artigos (referências bibliográficas complementares)
+## :newspaper: 7. Artigos (referências bibliográficas complementares)
 
 Usadas nas avaliações.
 
@@ -376,7 +258,7 @@ Artigo 4: [Ciência da informação e ciência de dados: convergência interdisc
 
 
 ---
-### :books: 8.1. Outras referências complementares
+### :books: 7.1. Outras referências complementares
 
 * CAMILO, C.O.; SILVA, J.C. da. Mineração de dados: conceitos, tarefas, métodos e ferramentas. 2009. 29 f. Relatório técnico. Universidade Federal de Goiás, Instituto de Informática, Goiânia. Disponível em: <http://www.portal.inf.ufg.br/sites/default/files/uploads/relatorios-tecnicos/RT-INF_001-09.pdf>. Acesso em: 22 jun. 2018.
 
@@ -399,7 +281,6 @@ Artigo 4: [Ciência da informação e ciência de dados: convergência interdisc
 * ZAKI, J.M.; MEIRA JR, W. Data mining and analysis: fundamental concepts and algorithms. England: Cambridge University Press, 2014. Disponível em: <https://dataminingbook.info/book_html/>. Acesso em: 02 out. 2020.
 
 
-
 [Combining Natural Language Processing and Blockchain for Smart Contract Generation in the Accounting and Legal Field]()
 
 [Ontology for pervasive traceability of agrochemicals](https://journals.ssau.ru/ontology/article/view/26995#)
@@ -410,14 +291,14 @@ Artigo 4: [Ciência da informação e ciência de dados: convergência interdisc
 
 
 --- 
-## :notebook: 9. Cursos gratuítos (opcionais)
+## :notebook: 8. Cursos gratuítos (opcionais)
 
 * [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
 
 * [Introdução à análise de dados da Microsoft](https://learn.microsoft.com/pt-br/training/powerplatform/power-bi).
 
 
-### :notebook:  9.1. Cursos sobre BI com Scriptcase
+### :notebook: 8.1. Cursos sobre BI com Scriptcase
 
 * Scriptcase - Relatórios BI no Scriptcase (Introdução) 1/9 https://www.youtube.com/watch?v=MMagFK_yr34
 * Scriptcase - Relatórios BI no Scriptcase (Exportação) 2/9 https://www.youtube.com/watch?v=Fz9OBDLFUQI
@@ -431,7 +312,7 @@ Artigo 4: [Ciência da informação e ciência de dados: convergência interdisc
 
 
 ---
-## :green_book: 10. Como estudar (dicas)
+## :green_book: 9. Como estudar (dicas)
 
 3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
 https://www.youtube.com/watch?v=posTc56basM
@@ -461,7 +342,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## :tv: 12. Videos recomendados (material opcional)
+## :tv: 10. Videos recomendados (material opcional)
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 
@@ -475,8 +356,10 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 6. Instalação do Pentaho https://www.youtube.com/watch?v=DHOVpSjF1MY&list=PLbKspxpESPnZqy-J5pD1wSaiBvs34mxqI e  https://www.youtube.com/watch?v=fNDJEjlYlCw
 
+
+
 ---
-## :office: 13. Projetos da fundação Apache e suas características
+## :office: 11. Projetos da fundação Apache e suas características
 
 ```mermaid
 
@@ -510,11 +393,11 @@ flowchart TB
 
 
 ---
-## :alarm_clock: 14. Carga horária de 15hs adicionais (remota/online)
+## :alarm_clock: 12. Carga horária de 15hs adicionais (remota/online)
 
 Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
-### 🎓 14.1. Playlist de Introdução à Engenharia de Dados (até 15h)
+### 🎓 12.1. Playlist de Introdução à Engenharia de Dados (até 15h)
 
 | #  | Tópico               | Título do Vídeo                                                 | Duração Estimada | URL      |
 |----|----------------------|-----------------------------------------------------------------|----------|----------|
@@ -537,37 +420,37 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
 **⏱️ Duração Total Estimada:** 14h 01min
 
-### 📺 14.2. Playlist: Fundamentos de Engenharia de Dados (14h)
+### 📺 12.2. Playlist: Fundamentos de Engenharia de Dados (14h)
 
-#### 🎓 14.2.1 Introdução à Engenharia de Dados
+#### 🎓 12.2.1 Introdução à Engenharia de Dados
 1. [Introdução ao Curso Fundamentos de Engenharia de Dados (1h00min)](https://www.youtube.com/watch?v=j8U7E9ZmUtA)
 2. [O que é Engenharia de Dados? O que faz um Engenheiro de Dados? (15min)](https://www.youtube.com/watch?v=-_Uzj6tr9wY)
 
-#### 🧩 14.2.2. Modelagem de Dados
+#### 🧩 12.2.2. Modelagem de Dados
 3. [Introdução à Modelagem de Dados (20min)](https://www.youtube.com/watch?v=W49AO7f93Jk)
 4. [8 Etapas para Modelagem de Dados (30min)](https://www.youtube.com/watch?v=UZcaZD5VG0g)
 
-#### 🔄 14.2.3. ETL (Extract, Transform, Load)
+#### 🔄 12.2.3. ETL (Extract, Transform, Load)
 5. [ETL do Zero: Ferramentas Essenciais (45min)](https://www.youtube.com/watch?v=WG01wI-DG28)
 6. [A MELHOR FERRAMENTA DE ETL PARA ENGENHEIRO DE DADOS (25min)](https://www.youtube.com/watch?v=D-UTE59vQGY)
 
-#### 🏢 14.2.4. Data Warehouse
+#### 🏢 12.2.4. Data Warehouse
 7. [What Is a Data Warehouse? (10min)](https://www.youtube.com/watch?v=AHR_7jFCMeY)
 8. [Data Warehouse Tutorial For Beginners (1h00min)](https://www.youtube.com/watch?v=J326LIUrZM8)
 
-#### 🌊 14.2.5. Data Lake
+#### 🌊 12.2.5. Data Lake
 9. [What is a Data Lake? Simple Explanation (1min)](https://www.youtube.com/watch?v=J5l-X7I_2Lg)
 10. [Full Data Lake Guide for Beginners (15min)](https://www.youtube.com/watch?v=CqJcZIl8Nj8)
 
-#### 🧪 14.2.6. Pipelines de Dados
+#### 🧪 12.2.6. Pipelines de Dados
 11. [O QUE É UMA PIPELINE DE DADOS? (10min)](https://www.youtube.com/watch?v=sTE2SdH2epA)
 12. [Execução de pipelines no Airflow: exemplo prático (30min)](https://www.youtube.com/watch?v=iFzeqFak4tw)
 
-#### 🔐 14.2.7. Governança de Dados
+#### 🔐 12.2.7. Governança de Dados
 13. [O que é governança de dados e como implementar? (20min)](https://www.youtube.com/watch?v=Gf_0cqJ4psA)
 14. [Visão estratégica da governança de dados (25min)](https://www.youtube.com/watch?v=NCUvEA8Sfbs)
 
-#### 📊 14.2.8. Big Data
+#### 📊 12.2.8. Big Data
 15. [Big Data In 5 Minutes | Simplilearn (5min)](https://www.youtube.com/watch?v=bAyrObl7TYE)
 16. [Big Data Full Course 2022 | Simplilearn (2h00min)](https://www.youtube.com/watch?v=KCEPoPJ8sWw)
 
@@ -576,7 +459,7 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
 
 
-### 📄 14.3. Artigos Científicos Open Access sobre Engenharia de Dados
+### 📄 12.3. Artigos Científicos Open Access sobre Engenharia de Dados
 
 | #  | Tópico                 | Título do Artigo                               | URL                                             |
 |----|------------------------|------------------------------------------------|-------------------------------------------------|
@@ -597,7 +480,7 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
 
 
-## 📄 15. Exemplos usados em sala de aula 
+## 📄 13. Exemplos usados em sala de aula 
 
 Algoritmos classificadores, comparação:
 
@@ -610,10 +493,10 @@ Algoritmos classificadores, comparação:
 | **Random Forest**| Conjunto de árvores de decisão treinadas em subconjuntos dos dados | Alta acurácia; reduz overfitting; lida com dados desbalanceados           | Mais difícil de interpretar; pode ser computacionalmente custoso          | Situações onde acurácia é prioridade; dados ruidosos ou desbalanceados  |
 
 
-## 📄 16. Assuntos diversos
+## 📄 14. Assuntos diversos
 
 
-### 16.1. Vagas de emprego para "Engenheiro de dados":
+### 14.1. Vagas de emprego para "Engenheiro de dados":
 https://www.glassdoor.com.br/Vaga/cuiab%C3%A1-mato-grosso-engenheiro-a-de-dados-vagas-SRCH_IL.0,18_IC2467272_KO19,40.htm
 https://www.infojobs.com.br/vagas-de-emprego-engenheiro+de+dados-em-cuiaba,-mt.aspx
 https://www.catho.com.br/vagas/engenheiro-de-dados/
@@ -621,7 +504,7 @@ https://br.linkedin.com/jobs/engenheiro-vagas-cuiab%C3%A1
 https://br.jobsavior.com/ofertas-de-emprego/cuiab%C3%A1-mt/query-engenheiro-de-dados-senior
 https://br.indeed.com/q-engenheiro-da-computa%C3%A7%C3%A3o-l-cuiab%C3%A1,-mt-vagas.html
 
-### 16.2. Pesquisa Salarial:
+### 14.2. Pesquisa Salarial:
 https://www.glassdoor.com.br/Sal%C3%A1rios/engenheiro-de-dados-sal%C3%A1rio-SRCH_KO0,19.htm
 https://www.salario.com.br/profissao/engenheiro-de-dados-cbo-212205/
 https://g1.globo.com/tecnologia/noticia/2024/04/07/cientista-e-engenheiro-de-dados-estao-em-alta-e-tem-salario-que-pode-passar-de-r-20-mil-veja-como-entrar.ghtml
