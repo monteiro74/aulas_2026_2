@@ -1,9 +1,9 @@
 * Plano de curso - TCC1
 
-* FACET-SNP-336 - TRABALHO DE CONCLUSÃO DE CURSO I - T01 (2025.2)
+* FACET-SNP-336 - TRABALHO DE CONCLUSÃO DE CURSO I - T01 (2026.2)
 
 
-- [:game\_die: 1. Turma: TCC1 FACET-SNP-336 - TRABALHO DE CONCLUSÃO DE CURSO I - T01 (2025.2)](#game_die-1-turma-tcc1-facet-snp-336---trabalho-de-conclusão-de-curso-i---t01-20252)
+- [:game\_die: 1. Turma: TCC1 FACET-SNP-336 - TRABALHO DE CONCLUSÃO DE CURSO I - T01 (2026.2)](#game_die-1-turma-tcc1-facet-snp-336---trabalho-de-conclusão-de-curso-i---t01-20262)
   - [:watch: 1.1. Carga Horária Total: 30](#watch-11-carga-horária-total-30)
   - [:hourglass\_flowing\_sand: 1.2. Horário: 30 horas.](#hourglass_flowing_sand-12-horário-30-horas)
   - [Reuniões:](#reuniões)
@@ -44,7 +44,7 @@
 
 
 ---
-## :game_die: 1. Turma: TCC1 FACET-SNP-336 - TRABALHO DE CONCLUSÃO DE CURSO I - T01 (2025.2)
+## :game_die: 1. Turma: TCC1 FACET-SNP-336 - TRABALHO DE CONCLUSÃO DE CURSO I - T01 (2026.2)
 
 ### :watch: 1.1. Carga Horária Total: 30
 
@@ -86,45 +86,45 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 ## :date: 2. Datas de aulas e conteúdo
 
 
-28/02/2026 Aula 1: Orientação sobre o TCC
+/ /2026 Aula 1: Orientação sobre o TCC
 	
-07/03/2026 Aula 2: Orientações sobre o TCC
+/ /2026 Aula 2: Orientações sobre o TCC
 	
-14/03/2026 Aula 3: Acompanhamento do trabalho aluno-orientador
+/ /2026 Aula 3: Acompanhamento do trabalho aluno-orientador
 	
-21/03/2026 Aula 4: Avaliação 1. Entrega de termos de orientação.
+/ /2026 Aula 4: Avaliação 1. Entrega de termos de orientação.
 	
-28/03/2026 Aula 5: Acompanhamento do trabalho aluno-orientador.
+/ /2026 Aula 5: Acompanhamento do trabalho aluno-orientador.
 	
-11/04/2026 Aula 6: Acompanhamento do trabalho aluno-orientador.
+/ /2026 Aula 6: Acompanhamento do trabalho aluno-orientador.
 	
-18/04/2026 Aula 7: Acompanhamento do trabalho aluno-orientador.
+/ /2026 Aula 7: Acompanhamento do trabalho aluno-orientador.
 	
-25/04/2026 Aula 8: Acompanhamento do trabalho aluno-orientador.
+/ /2026 Aula 8: Acompanhamento do trabalho aluno-orientador.
 
 Reunião do dia 29 de abril Slides https://docs.google.com/presentation/d/11jcbkLn7c41WoA0bhDPnzClxm2RYLJ2pBQ66Z0aKlXQ/edit?usp=view
 
-09/05/2026 Aula 9: Acompanhamento do trabalho aluno-orientador.
+/ /2026 Aula 9: Acompanhamento do trabalho aluno-orientador.
 	
-16/05/2026 Aula 10: Acompanhamento do trabalho aluno-orientador.
+/ /2026 Aula 10: Acompanhamento do trabalho aluno-orientador.
 	
-23/05/2026 Aula 11: Acompanhamento do trabalho aluno-orientador.
+/ /2026 Aula 11: Acompanhamento do trabalho aluno-orientador.
 	
-30/05/2026 Aula 12: Avaliação 2. Entrega de documentos/projeto.
+/ /2026 Aula 12: Avaliação 2. Entrega de documentos/projeto.
 	
-13/06/2026 Aula 13: Acompanhamento do trabalho aluno-orientador.
+/ /2026 Aula 13: Acompanhamento do trabalho aluno-orientador.
 	
-20/06/2026 Aula 14: Acompanhamento do trabalho aluno-orientador. Bancas.
+/ /2026 Aula 14: Acompanhamento do trabalho aluno-orientador. Bancas.
 	
-27/06/2026 Aula 15: Avaliação 3, entrega de versão final do trabalho.
+/ /2026 Aula 15: Avaliação 3, entrega de versão final do trabalho.
 
 
 
 ## :date: 3. Datas de avaliações
 
-* Avaliação 1: 14/03/2026
-* Avaliação 2: 30/05/2026
-* Avaliação 3: 27/06/2026
+* Avaliação 1: / /2026
+* Avaliação 2: / /2026
+* Avaliação 3: / /2026
 
 
 ---
@@ -197,22 +197,12 @@ No momento os professores que temos no curso são:
 
 |Id| Aluno  | Professor | Tema | 1ª Entrega |2ª Entrega |3ª Entrega |
 |--|---------------------------------|--------------------|---------|-----------------|---|---|
-|1 | ADRIAN GEAN GOMES RODRIGUES   | BENEVID FELIX DA SILVA | Aplicação de técnicas de inteligência artificial na detecção de ataques de phishing por email. | ✔️ | ✔️  | |
-|2 | ALEX PABLO DE OLIVEIRA MORAES  | JOÃO RICARDO DOS SANTOS ROSA  |Plataforma web para automação da gestão de documentos de escritórios de contabilidade utilizando Ia generativa | ✔️ | ✔️  | ⚠️ |
-|3 | CARLA EDUARDA ALVES IZIDORIO  | JANECLER FOPPA | Avaliação da eficácia das métricas de desempenho em equipes que utilizam Scrum. | ✔️ | ✔️  | |
-|4 | CARLOS EDUARDO SPAK JUNCHER  | RAMILTON COSTA GOMES JUNIOR |  |✔️ |   | |
-|5 | DANIEL KRUGER FERREIRA CARDOSO  | JANECLER FOPPA | Docflow: plataforma web para gestão de onboarding de colaboradores  | ✔️ | ✔️  | |
-|6 | GABRIEL BEREGULA GOMES   | MAICON APARECIDO SARTIN |  | ✔️ |   | |
-|7 | GABRIEL DE ALMEIDA MORAES  | MAICON APARECIDO SARTIN |  | ✔️ |   | |
-|8 | GLAUCIMAR APARECIDA DE SIQUEIRA  | MAICON APARECIDO SARTIN | Redes neurais convolucionais aplicadas a diagnose de doenças foliares da soja | ✔️ | ✔️  | |
-|9 | HENRIQUE AUGUSTO PEREIRA DE SA  | JULIANO FERNANDES DE AVILA |  | ✔️ |   | |
-|10| JULIO CESAR COLLI   | JULIANO FERNANDES DE AVILA |  | ✔️ |   | |
-|11| MATHEUS HENRIQUE LUDWIG  | ARIANY CARDOSO PEREIRA |  | ⚠️ |   | |
-|12| NICOLAS FELIPE HASSELSTROM DA VEIGA  | MAICON APARECIDO SARTIN |  | ✔️ |   | |
-|13| PAULO HENRIQUE ANDRADE GERALDI  | MAURO FRANCISCO DOS SANTOS JUNIOR |  |  ⚠️|   | |
-|14| SALATIEL BONFIM GOMES  | FRANCISCO SANCHES BANHOS FILHO | Migração de arquitetura de integração de dados de saúde: do modelo ETL legado para a interoperabilidade com o padrão HL7 FHIR | ✔️ | ✔️  | |
-|15| THIAGO SMERDECK PEREIRA  | BENEVID FELIX DA SILVA | Sistema de monitoramento baseado em IoT e automação para pequenos centros de dados | ✔️ | ✔️  | |
-|16| VITOR FORTUNATO DE OLIVEIRA  | ELIAS ANTONIO MORGAN |  | ✔️ |   | |
+|1 |    |  |  |  |   | |
+|2 |    |  |  |  |   | |
+|3 |    |  |  |  |   | |
+|4 |    |  |  |  |   | |
+|5 |    |  |  |  |   | |
+|6 |    |  |  |  |   | |
 
 
 
@@ -222,12 +212,12 @@ Total de entregas na 3a etapa: .<br>
 ---
 ## 📆 7. Calendário geral
 
-![https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/calendario_tcc_2026-1.jpeg](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/calendario_tcc_2026-1.jpeg)
+![]()
 
 ---
 ## 📆 8. Calendário de bancas
 
-[Calendário de bancas](https://docs.google.com/spreadsheets/d/1EwQFPXRxcJN9Hn7BAvtGPc0XovEF3pRXWC8Over-3sI/edit?usp=view)
+[Calendário de bancas]()
 
 ---
 ## 📺 9. Vídeos recomendados
