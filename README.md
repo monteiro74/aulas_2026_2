@@ -21,11 +21,11 @@ Disciplinas para 2026/2
 
 # 🎯 1. Disciplinas para 2026/1.
 
-* 1️⃣ [Modelagem e projeto de banco de dados](https://github.com/monteiro74/aulas_2025_2/blob/main/projeto_bd/plano_de_ensino.md)
-* 2️⃣ [Introdução à engenharia de dados](https://github.com/monteiro74/aulas_2025_2/blob/main/intro_eng_dados/plano_de_ensino.md)
-* 3️⃣ [TCC1](https://github.com/monteiro74/aulas_2025_2/blob/main/tcc1/plano_de_ensino.md)
-* 4️⃣ [TCC2](https://github.com/monteiro74/aulas_2025_2/blob/main/tcc2/plano_de_ensino.md)
-* 5️⃣ [Projeto de extensão ISIS](https://github.com/monteiro74/aulas_2025_2/blob/main/projeto_isis/projeto_isis.md)
+* 1️⃣ [Modelagem e projeto de banco de dados](https://github.com/monteiro74/aulas_2026_2/blob/main/projeto_bd/plano_de_ensino.md)
+* 2️⃣ [Introdução à engenharia de dados](https://github.com/monteiro74/aulas_2026_2/blob/main/intro_eng_dados/plano_de_ensino.md)
+* 3️⃣ [TCC1](https://github.com/monteiro74/aulas_2026_2/blob/main/tcc1/plano_de_ensino.md)
+* 4️⃣ [TCC2](https://github.com/monteiro74/aulas_2026_2/blob/main/tcc2/plano_de_ensino.md)
+* 5️⃣ []()
 
 ---
 # 🗺️ 2. Mapa do curso
