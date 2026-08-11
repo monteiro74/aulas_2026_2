@@ -44,37 +44,37 @@ De forma online. Via agendamento prévio pelo sistema SIGAA.
 ---
 ## :date: 2. Datas de aulas e conteúdo
 
-Aula 1: Orientações sobre o TCC com o prof. de TCC (13/08/2026 - 13/08/2026)
-Aula 2: Orientações sobre o TCC com o prof. de TCC. (15/08/2026 - 15/08/2026)
-Aula 2: Orientações sobre o TCC com o prof. de TCC.
-Aula 3: Acompanhamento do trabalho aluno-orientador. (20/08/2026 - 20/08/2026)
-Aula 3: Acompanhamento do trabalho aluno-orientador.
-Aula 4: Acompanhamento do trabalho aluno-orientador. (22/08/2026 - 22/08/2026)
-Aula 4: Acompanhamento do trabalho aluno-orientador.
-Aula 5: Avaliação 1. Entrega de termos de orientação. (27/08/2026 - 27/08/2026)
-Aula 5: Avaliação 1. Entrega de termos de orientação.
-Aula 6: Acompanhamento do trabalho aluno-orientador. (29/08/2026 - 29/08/2026)
-Aula 6: Acompanhamento do trabalho aluno-orientador.
-Aula 7: Acompanhamento do trabalho aluno-orientador. (03/09/2026 - 03/09/2026)
-Aula 7: Acompanhamento do trabalho aluno-orientador.
-Aula 8: Acompanhamento do trabalho aluno-orientador. (05/09/2026 - 05/09/2026)
-Aula 8: Acompanhamento do trabalho aluno-orientador.
-Aula 9: Acompanhamento do trabalho aluno-orientador. (10/09/2026 - 10/09/2026)
-Aula 9: Acompanhamento do trabalho aluno-orientador.
-Aula 10: Acompanhamento do trabalho aluno-orientador. (12/09/2026 - 12/09/2026)
-Aula 10: Acompanhamento do trabalho aluno-orientador.
-Aula 11: Acompanhamento do trabalho aluno-orientador. (17/09/2026 - 17/09/2026)
-Aula 11: Acompanhamento do trabalho aluno-orientador.
-Aula 12: Avaliação 2. Entrega de trabalho para banca. (19/09/2026 - 19/09/2026)
-Aula 12: Avaliação 2. Entrega de trabalho para banca.
-Aula 13: Acompanhamento do trabalho aluno-orientador. Bancas. (24/09/2026 - 24/09/2026)
-Aula 13: Acompanhamento do trabalho aluno-orientador. Bancas.
-Aula 14: Acompanhamento do trabalho aluno-orientador. Bancas. (26/09/2026 - 26/09/2026)
-Aula 14: Acompanhamento do trabalho aluno-orientador. Bancas.
-Aula 15: Acompanhamento do trabalho aluno-orientador. Bancas. (01/10/2026 - 01/10/2026)
-Aula 15: Acompanhamento do trabalho aluno-orientador. Bancas.
-Aula 16: Acompanhamento do trabalho aluno-orientador. Bancas. (03/10/2026 - 03/10/2026)
-Aula 16: Acompanhamento do trabalho aluno-orientador. Bancas.
+Aula 1: Orientações sobre o TCC com o prof. de TCC (13/08/2026 - 13/08/2026) <br>
+Aula 2: Orientações sobre o TCC com o prof. de TCC. (15/08/2026 - 15/08/2026)<br>
+Aula 2: Orientações sobre o TCC com o prof. de TCC.<br>
+Aula 3: Acompanhamento do trabalho aluno-orientador. (20/08/2026 - 20/08/2026)<br>
+Aula 3: Acompanhamento do trabalho aluno-orientador.<br>
+Aula 4: Acompanhamento do trabalho aluno-orientador. (22/08/2026 - 22/08/2026)<br>
+Aula 4: Acompanhamento do trabalho aluno-orientador.<br>
+Aula 5: Avaliação 1. Entrega de termos de orientação. (27/08/2026 - 27/08/2026)<br>
+Aula 5: Avaliação 1. Entrega de termos de orientação.<br>
+Aula 6: Acompanhamento do trabalho aluno-orientador. (29/08/2026 - 29/08/2026)<br>
+Aula 6: Acompanhamento do trabalho aluno-orientador.<br>
+Aula 7: Acompanhamento do trabalho aluno-orientador. (03/09/2026 - 03/09/2026)<br>
+Aula 7: Acompanhamento do trabalho aluno-orientador.<br>
+Aula 8: Acompanhamento do trabalho aluno-orientador. (05/09/2026 - 05/09/2026)<br>
+Aula 8: Acompanhamento do trabalho aluno-orientador.<br>
+Aula 9: Acompanhamento do trabalho aluno-orientador. (10/09/2026 - 10/09/2026)<br>
+Aula 9: Acompanhamento do trabalho aluno-orientador.<br>
+Aula 10: Acompanhamento do trabalho aluno-orientador. (12/09/2026 - 12/09/2026)<br>
+Aula 10: Acompanhamento do trabalho aluno-orientador.<br>
+Aula 11: Acompanhamento do trabalho aluno-orientador. (17/09/2026 - 17/09/2026)<br>
+Aula 11: Acompanhamento do trabalho aluno-orientador.<br>
+Aula 12: Avaliação 2. Entrega de trabalho para banca. (19/09/2026 - 19/09/2026)<br>
+Aula 12: Avaliação 2. Entrega de trabalho para banca.<br>
+Aula 13: Acompanhamento do trabalho aluno-orientador. Bancas. (24/09/2026 - 24/09/2026)<br>
+Aula 13: Acompanhamento do trabalho aluno-orientador. Bancas.<br>
+Aula 14: Acompanhamento do trabalho aluno-orientador. Bancas. (26/09/2026 - 26/09/2026)<br>
+Aula 14: Acompanhamento do trabalho aluno-orientador. Bancas.<br>
+Aula 15: Acompanhamento do trabalho aluno-orientador. Bancas. (01/10/2026 - 01/10/2026)<br>
+Aula 15: Acompanhamento do trabalho aluno-orientador. Bancas.<br>
+Aula 16: Acompanhamento do trabalho aluno-orientador. Bancas. (03/10/2026 - 03/10/2026)<br>
+Aula 16: Acompanhamento do trabalho aluno-orientador. Bancas.<br>
 
 
 ## :date: 3. Datas de avaliações
