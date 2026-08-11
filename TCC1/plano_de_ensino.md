@@ -79,7 +79,7 @@ Conforme: Resolução CONEPE Nº 038/2022, páginas 18 a 19 e Resolução Nº 03
 
 ### :hourglass_flowing_sand: 1.6. Horário de atendimento
 
-No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio pelo sistema SIGAA).
+De forma online. Via agendamento prévio pelo sistema SIGAA.
 
 
 ---
