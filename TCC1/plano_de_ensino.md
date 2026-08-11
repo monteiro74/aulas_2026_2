@@ -86,37 +86,35 @@ De forma online. Via agendamento prévio pelo sistema SIGAA.
 ## :date: 2. Datas de aulas e conteúdo
 
 
-/ /2026 Aula 1: Orientação sobre o TCC
-	
-/ /2026 Aula 2: Orientações sobre o TCC
-	
-/ /2026 Aula 3: Acompanhamento do trabalho aluno-orientador
-	
-/ /2026 Aula 4: Avaliação 1. Entrega de termos de orientação.
-	
-/ /2026 Aula 5: Acompanhamento do trabalho aluno-orientador.
-	
-/ /2026 Aula 6: Acompanhamento do trabalho aluno-orientador.
-	
-/ /2026 Aula 7: Acompanhamento do trabalho aluno-orientador.
-	
-/ /2026 Aula 8: Acompanhamento do trabalho aluno-orientador.
-
-Reunião do dia 29 de abril Slides https://docs.google.com/presentation/d/11jcbkLn7c41WoA0bhDPnzClxm2RYLJ2pBQ66Z0aKlXQ/edit?usp=view
-
-/ /2026 Aula 9: Acompanhamento do trabalho aluno-orientador.
-	
-/ /2026 Aula 10: Acompanhamento do trabalho aluno-orientador.
-	
-/ /2026 Aula 11: Acompanhamento do trabalho aluno-orientador.
-	
-/ /2026 Aula 12: Avaliação 2. Entrega de documentos/projeto.
-	
-/ /2026 Aula 13: Acompanhamento do trabalho aluno-orientador.
-	
-/ /2026 Aula 14: Acompanhamento do trabalho aluno-orientador. Bancas.
-	
-/ /2026 Aula 15: Avaliação 3, entrega de versão final do trabalho.
+Aula 1: Orientação sobre o TCC (12/08/2026 - 12/08/2026)
+Aula 2: Orientações sobre o TCC (15/08/2026 - 15/08/2026)
+Aula 2: Orientações sobre o TCC
+Aula 3: Acompanhamento do trabalho aluno-orientador (19/08/2026 - 19/08/2026)
+Aula 3: Acompanhamento do trabalho aluno-orientador
+Aula 4: Avaliação 1. Entrega de termos de orientação. (22/08/2026 - 22/08/2026)
+Aula 4: Avaliação 1. Entrega de termos de orientação.
+Aula 5: Acompanhamento do trabalho aluno-orientador. (26/08/2026 - 26/08/2026)
+Aula 5: Acompanhamento do trabalho aluno-orientador.
+Aula 6: Acompanhamento do trabalho aluno-orientador. (29/08/2026 - 29/08/2026)
+Aula 6: Acompanhamento do trabalho aluno-orientador.
+Aula 7: Acompanhamento do trabalho aluno-orientador. (02/09/2026 - 02/09/2026)
+Aula 7: Acompanhamento do trabalho aluno-orientador.
+Aula 8: Acompanhamento do trabalho aluno-orientador. (05/09/2026 - 05/09/2026)
+Aula 8: Acompanhamento do trabalho aluno-orientador.
+Aula 9: Acompanhamento do trabalho aluno-orientador. (09/09/2026 - 09/09/2026)
+Aula 9: Acompanhamento do trabalho aluno-orientador.
+Aula 10: Acompanhamento do trabalho aluno-orientador. (12/09/2026 - 12/09/2026)
+Aula 10: Acompanhamento do trabalho aluno-orientador.
+Aula 11: Acompanhamento do trabalho aluno-orientador. (16/09/2026 - 16/09/2026)
+Aula 11: Acompanhamento do trabalho aluno-orientador.
+Aula 12: Avaliação 2. Entrega de documentos/projeto. (19/09/2026 - 19/09/2026)
+Aula 12: Avaliação 2. Entrega de documentos/projeto.
+Aula 13: Acompanhamento do trabalho aluno-orientador. (23/09/2026 - 23/09/2026)
+Aula 13: Acompanhamento do trabalho aluno-orientador.
+Aula 14: Acompanhamento do trabalho aluno-orientador. Bancas. (26/09/2026 - 26/09/2026)
+Aula 14: Acompanhamento do trabalho aluno-orientador. Bancas.
+Aula 15: Avaliação 3, entrega de versão final do trabalho. (30/09/2026 - 30/09/2026)
+Aula 15: Avaliação 3, entrega de versão final do trabalho.
 
 
 
