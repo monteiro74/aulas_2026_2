@@ -4,6 +4,7 @@ Disciplinas para 2026/2
 
 # Disciplinas e projetos do Prof. Dr. Emiliano S. Monteiro
 
+- [aulas\_2026\_2](#aulas_2026_2)
 - [Disciplinas e projetos do Prof. Dr. Emiliano S. Monteiro](#disciplinas-e-projetos-do-prof-dr-emiliano-s-monteiro)
 - [🎯 1. Disciplinas para 2026/1.](#-1-disciplinas-para-20261)
 - [🗺️ 2. Mapa do curso](#️-2-mapa-do-curso)
@@ -11,11 +12,8 @@ Disciplinas para 2026/2
   - [📘 3.1 Templates de documentos](#-31-templates-de-documentos)
 - [📅 4. Calendário](#-4-calendário)
   - [📅 4.1. Calendário geral da universidade](#-41-calendário-geral-da-universidade)
-  - [⏲️ 4.2. Horário do curso de Sistemas de Informação 2025/2](#️-42-horário-do-curso-de-sistemas-de-informação-20252)
+  - [⏲️ 4.2. Horário do curso de Sistemas de Informação 2026/2](#️-42-horário-do-curso-de-sistemas-de-informação-20262)
 - [📓 5. Normatização acadêmica](#-5-normatização-acadêmica)
-- [🗃️ 6. Outros repositórios de apoio no github](#️-6-outros-repositórios-de-apoio-no-github)
-- [📊 7. Estatísticas de TCC](#-7-estatísticas-de-tcc)
-    - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
 
@@ -64,4 +62,5 @@ https://sinop.unemat.br/faculdades/facet/graduacao/sistemas-de-informacao-bachar
 |[RESOLUÇÃO Nº 009/2021 – CONEPE](https://www.unemat.br/resolucoes/resolucoes/consuni/4673_res_consuni_9_2021.pdf) | Dispõe sobre os Projetos e Programas de Extensão da Universidade do Estado de Mato Grosso.|
 |[RESOLUÇÃO Nº 010/2021 – CONEPE](https://www.unemat.br/resolucoes/resolucoes/conepe/4486_res_conepe_10_2021.pdf) | Dispõe sobre Cursos e Eventos no âmbito da Universidade do Estado de Mato Grosso.|
 |[RESOLUÇÃO Nº 038/2021 – CONEPE](https://www.unemat.br/resolucoes/resolucoes/conepe/4536_res_conepe_38_2021.pdf) | Dispõe sobre a Política de Extensão da Universidade do Estado de Mato Grosso.|
-|[RESOLUÇÃO Nº 011/2020 – AD REFERENDUM DO CONEPE](https://portal.unemat.br/media/files/Resolu%C3%A7%C3%A3o%20de%20Credita%C3%A7%C3%A3o%20011_2020.pdf) | Dispõe e regulamenta sobre a obrigatoriedade da inclusão da creditação 
+|[RESOLUÇÃO Nº 011/2020 – AD REFERENDUM DO CONEPE](https://portal.unemat.br/media/files/Resolu%C3%A7%C3%A3o%20de%20Credita%C3%A7%C3%A3o%20011_2020.pdf) | Dispõe e regulamenta sobre a obrigatoriedade da inclusão da creditação.  |
+|[RESOLUÇÃO Nº 047/2025 DO CONEPE](https://www.unemat.br/resolucoes/resolucoes/conepe/5957_res_conepe_47_2025.pdf) | Dispõe sobre o Trabalho de Conclusão de Curso – TCC dos cursos de Graduação. |
