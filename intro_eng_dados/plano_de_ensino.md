@@ -169,7 +169,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-|  1  |  | 3hs | Apresentação da disciplina. Conceitos de engenharia de dados.  Conceitos, exemplos de big data, diferenças entre engenharia de dados x análise de dados x cientísta de dados; atribuições dos profissionais; ETL xELT; conceitos de Data warehouse, data mart, data lake e virtualização de dados. Comentários sobre as referências bibliográficas. <br>  |
+|  1  |  | 3hs | Apresentação da disciplina. Conceitos de engenharia de dados.  Conceitos, exemplos de big data, diferenças entre engenharia de dados x análise de dados x cientísta de dados; atribuições dos profissionais; ETL xELT; conceitos de Data warehouse, data mart, data lake e virtualização de dados. Comentários sobre as referências bibliográficas. [Slides da aula 1](https://docs.google.com/presentation/d/1bf2nVRggSYgTmzqM9s-kYssAW016gKI064L-LAG8o9Y/edit?usp=view) <br>  |
 |  2  |  | 3hs  | Processo KDD, Mineração x aprendizado de máquina, processo CRISP DM, dados não estruturados x estruturados, acesso a dados transacionais, data lake, etl, ferramentas para data lake, AWS S3, MinIO. Na repositório da disciplinas estão os datasets e scripts python. <br> |
 |  3  |  | 3hs  | Exercício com dados abertos. Exercíco de importação de dados, Orange Data Mining. |
 |  4  |  | 3hs  | Classificação e clustering, Classificação e clustering no Orange. |
