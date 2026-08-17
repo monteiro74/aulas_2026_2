@@ -3,6 +3,33 @@
 * FACET-SNP-337 - TRABALHO DE CONCLUSÃO DE CURSO II - T01 (2026.2)
 
 
+- [:game\_die: 1. Turma: TCC2](#game_die-1-turma-tcc2)
+  - [:watch: 1.1. Carga Horária Total: 30](#watch-11-carga-horária-total-30)
+  - [:hourglass\_flowing\_sand: 1.2. Horário: 30 horas.](#hourglass_flowing_sand-12-horário-30-horas)
+  - [:page\_with\_curl: 1.3. Ementa](#page_with_curl-13-ementa)
+  - [:page\_with\_curl: 1.4. Metodologia](#page_with_curl-14-metodologia)
+  - [:page\_with\_curl: 1.5. Procedimentos de avaliação de aprendizagem](#page_with_curl-15-procedimentos-de-avaliação-de-aprendizagem)
+  - [:hourglass\_flowing\_sand: 1.6. Horário de atendimento](#hourglass_flowing_sand-16-horário-de-atendimento)
+- [:date: 2. Datas de aulas e conteúdo](#date-2-datas-de-aulas-e-conteúdo)
+- [:date: 3. Datas de avaliações](#date-3-datas-de-avaliações)
+- [:books: 4. Referências](#books-4-referências)
+- [💾 5. Arquivos](#-5-arquivos)
+- [:alarm\_clock: 6. Professores x áreas de orientação](#alarm_clock-6-professores-x-áreas-de-orientação)
+  - [🧑‍🎓 6.1. Relação Aluno x Professor x Tema:](#-61-relação-aluno-x-professor-x-tema)
+- [📆 7. Calendário geral](#-7-calendário-geral)
+- [📆 8. Calendário de bancas](#-8-calendário-de-bancas)
+- [📺 9. Vídeos recomendados](#-9-vídeos-recomendados)
+  - [9.1. Abstract ou resumo em um artigo científico](#91-abstract-ou-resumo-em-um-artigo-científico)
+  - [9.2. Palavras chave em um artigo científico](#92-palavras-chave-em-um-artigo-científico)
+  - [9.3. Introdução em um artigo científico](#93-introdução-em-um-artigo-científico)
+  - [9.4. Trabalhos relacionados em um artigo científico](#94-trabalhos-relacionados-em-um-artigo-científico)
+  - [9.5. Materais e Métodos (Modelo proposto) em um artigo científico](#95-materais-e-métodos-modelo-proposto-em-um-artigo-científico)
+  - [9.6. Avaliação, Resultados e Discussão em um artigo científico](#96-avaliação-resultados-e-discussão-em-um-artigo-científico)
+  - [9.7. Conclusão](#97-conclusão)
+- [🚧 10. Estrutura do artigo:](#-10-estrutura-do-artigo)
+- [🧱 11. Ordem de entrega de documentos:](#-11-ordem-de-entrega-de-documentos)
+- [12. Estatísticas de TCC](#12-estatísticas-de-tcc)
+  - [💻 Ícones usados nesta página](#-ícones-usados-nesta-página)
 
 
 
@@ -130,7 +157,7 @@ No momento os professores que temos no curso são:
 
 | Nº | Professor Orientador | Área/tema de interesse em orientar |
 |---:|---|---|
-| 1 | Benevid Feliz | Tecnologias emergentes em inteligência artificial |
+| 1 | Benevid Felix | Tecnologias emergentes em inteligência artificial |
 | 2 | Donizete Ritter | 1. Matemática discreta; <br> 2. Teoria dos números; <br> 3. Análise combinatória; <br> 4. Lógica; <br>  5. Matemática comercial e financeira; <br> 6. Álgebra linear; <br> 7. Problemas de otimização usando programação linear; <br> 8. Problemas de otimização usando programação não-linear; <br> 9. Problemas de otimização usando programação inteira; <br> 10. Metaheurísticas; <br> 11. Estudo envolvendo algumas redes neurais; <br> 12. Utilização da linguagem de programação AMPL em problemas de otimização; <br> 13. Linguagem de programação LOGO (Superlogo); <br> 14. Códigos corretores de erros; <br> 15. Uso dos softwares de Otimização LINGO e OTIMIZA. |
 | 3 | Elias Morgan | 1. Computação Tecnológica. <br> 2. Gestão da Tecnologia da Informação, Administração em TI. <br> 3. Sistemas de Informação Gerenciais, Sustentáveis. <br> 4. Gestão de Serviços, Projetos, Empreendedorismo em TI. <br> 5. Sistemas Integrados de Gestão (ERP). <br> 6. Planejamento Estratégico de TI. <br> 7. Inteligência Artificial: Analítica, Quântica, Computacional e Explicável. <br> 8. Sistemas Inteligência. <br> 9. Tecnologias Emergentes em SI. <br> 10. Negócios Digitais. <br> 11. Sistemas Distribuídos e Cloud Computing. <br> 12. Automação Digital. <br> 13. Governança de TI. <br> 14. Gestão da Inovação Tecnológica. <br> 15. Ética, Privacidade e Legislação em TI. <br> 16. Comportamento Organizacional para TI. <br> 17. Segurança da Informação. <br> 18. Auditoria de TI. |
 | 4 | Elisange Brugnera | 1. Tecnologias assistiva; <br> 2. Tecnologias na educação; <br> 3. IHC |
