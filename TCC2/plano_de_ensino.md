@@ -154,11 +154,45 @@ No momento os professores que temos no curso são:
 
 ❓não entregou
 
-|Id |Aluno                           | Professor          | Tema | 1ª Entrega |2ª Entrega |3ª Entrega |
-|--|---------------------------------|--------------------|---------|-----------------|---|---|
-|  |  |   | 	|  |  | |
-|  |  |  | 	| |  |  |
-|  |  |  | 	|  |  | |
+
+
+| Id | Aluno                                         | Professor | Tema | 1ª Entrega | 2ª Entrega | 3ª Entrega |
+| -- | --------------------------------------------- | --------- | ---- | ---------- | ---------- | ---------- |
+| 1  | ALEX PABLO DE OLIVEIRA MORAES                 |           |      |            |            |            |
+| 2  | BERNARDO POYER GABE AMERICO                   |           |      |            |            |            |
+| 3  | BRUNO BORCARDT RAMOS                          |           |      |            |            |            |
+| 4  | CARLA EDUARDA ALVES IZIDORIO                  |           |      |            |            |            |
+| 5  | CLEDERSON BRUSCO                              |           |      |            |            |            |
+| 6  | DANIEL KRUGER FERREIRA CARDOSO                |           |      |            |            |            |
+| 7  | ELBER LUCAS ALVES BARBOZA                     |           |      |            |            |            |
+| 8  | EMANUEL ESTEVAM DE OLIVEIRA DUTRA             |           |      |            |            |            |
+| 9  | FELIPE LEAL ALVES                             |           |      |            |            |            |
+| 10 | GABRIEL GUEDES RODRIGUES                      |           |      |            |            |            |
+| 11 | GLAUCIMAR APARECIDA DE SIQUEIRA               |           |      |            |            |            |
+| 12 | GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA |           |      |            |            |            |
+| 13 | GUILLERMO GILIOLI DE PAULA COELHO             |           |      |            |            |            |
+| 14 | HANS DONNER GIL ESPINHA                       |           |      |            |            |            |
+| 15 | HELLIELTON SANTOS DOS REIS                    |           |      |            |            |            |
+| 16 | ÍCARO GABRIEL ALVES DOS REIS                  |           |      |            |            |            |
+| 17 | JOÃO LUIZ RODIGHERO TELÓ                      |           |      |            |            |            |
+| 18 | KAIKY MARÇAL FERREIRA                         |           |      |            |            |            |
+| 19 | KENNY AMABILE DA ROCHA                        |           |      |            |            |            |
+| 20 | MAURÍCIO ROBERTO PAGLIARINI FILHO             |           |      |            |            |            |
+| 21 | MAYCON RAMATIS BRUGNERA VASCONCELLOS          |           |      |            |            |            |
+| 22 | OTAVIO MANIEZZO MILAN                         |           |      |            |            |            |
+| 23 | PAULO CÉSAR MARTINS PORTILHO                  |           |      |            |            |            |
+| 24 | PEDRO SALVADOR DE ARAUJO                      |           |      |            |            |            |
+| 25 | RYLLER BRITO PEREIRA                          |           |      |            |            |            |
+| 26 | SALATIEL BONFIM GOMES                         |           |      |            |            |            |
+| 27 | SANDY HIKARU HONDA                            |           |      |            |            |            |
+| 28 | THIAGO SMERDECK PEREIRA                       |           |      |            |            |            |
+| 29 | VINÍCIUS FREITAS                              |           |      |            |            |            |
+| 30 | VITOR EMANUEL SILVA SAUZEN                    |           |      |            |            |            |
+| 31 | VITOR RODRIGO FRAILLE PEREIRA                 |           |      |            |            |            |
+| 32 | WESLEY RODRIGO BARBOSA MAFRA                  |           |      |            |            |            |
+| 33 | WILLEN SILVA DE SOUZA                         |           |      |            |            |            |
+
+
 
 
 Total de alunos matriculados: ...<br>
