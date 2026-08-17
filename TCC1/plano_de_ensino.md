@@ -183,7 +183,7 @@ No momento os professores que temos no curso são:
 | 11 | Maicon Sartin | 1. IA. Aprendizado de Máquina e Profundo. <br> 2. Visão Computacional. <br> 3. Tecnologias e Sistemas Inteligentes na Educação. <br> 4. Automação com Microcontroladores (Arduino) e Sistemas Embarcados (Raspberry). <br> 5. IoT e Redes de Sensores sem Fio. <br> 6. Estações Meteorológicas: Análise de dados, análise de sensores, Comunicação, Predição, Acessibilidade em Websites, etc. |
 | 12 | Mauro Júnior | 1. Inovação/Startups (desenvolvimento de produtos/serviços); <br> 2. Empreendedorismo (desenvolvimento de novos negócios); <br> 3. Experiência de usuário (metodologias de UX/UI) |
 | 13 | Ramilton Costa Gomes Junior | 1. Banco de dados. <br> 2. Segurança. <br> 3. Computação forense. <br> 4. IA. <br> 5. Visão computacional. |
-| 14 | Tales Nereu Bogono | Empreendedorismo, desenvolvimento e análise de sistemas gerenciais |
+| 14 | Tales Nereu Bogoni | Empreendedorismo, desenvolvimento e análise de sistemas gerenciais |
 
 .
 
