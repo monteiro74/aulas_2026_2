@@ -210,7 +210,7 @@ No momento os professores que temos no curso são:
 | 23 | PAULO CÉSAR MARTINS PORTILHO                  |           |      |            |            |            |
 | 24 | PEDRO SALVADOR DE ARAUJO                      |           |      |            |            |            |
 | 25 | RYLLER BRITO PEREIRA                          |           |      |            |            |            |
-| 26 | SALATIEL BONFIM GOMES                         |           |      |            |            |            |
+| 26 | SALATIEL BONFIM GOMES                         |Francisco  |      |            |            |            |
 | 27 | SANDY HIKARU HONDA                            |           |      |            |            |            |
 | 28 | THIAGO SMERDECK PEREIRA                       |Benevid    |      |            |            |            |
 | 29 | VINÍCIUS FREITAS                              |           |      |            |            |            |
