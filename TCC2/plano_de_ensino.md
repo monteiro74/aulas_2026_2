@@ -161,22 +161,22 @@ No momento os professores que temos no curso são:
 | 1  | ALEX PABLO DE OLIVEIRA MORAES                 |           |      |            |            |            |
 | 2  | BERNARDO POYER GABE AMERICO                   |           |      |            |            |            |
 | 3  | BRUNO BORCARDT RAMOS                          |           |      |            |            |            |
-| 4  | CARLA EDUARDA ALVES IZIDORIO                  |           |      |            |            |            |
+| 4  | CARLA EDUARDA ALVES IZIDORIO                  |Janecler   |      |            |            |            |
 | 5  | CLEDERSON BRUSCO                              |           |      |            |            |            |
-| 6  | DANIEL KRUGER FERREIRA CARDOSO                |           |      |            |            |            |
+| 6  | DANIEL KRUGER FERREIRA CARDOSO                |Janecler   |      |            |            |            |
 | 7  | ELBER LUCAS ALVES BARBOZA                     |           |      |            |            |            |
-| 8  | EMANUEL ESTEVAM DE OLIVEIRA DUTRA             |           |      |            |            |            |
+| 8  | EMANUEL ESTEVAM DE OLIVEIRA DUTRA             |Ivan       |      |            |            |            |
 | 9  | FELIPE LEAL ALVES                             |           |      |            |            |            |
-| 10 | GABRIEL GUEDES RODRIGUES                      |           |      |            |            |            |
-| 11 | GLAUCIMAR APARECIDA DE SIQUEIRA               |           |      |            |            |            |
+| 10 | GABRIEL GUEDES RODRIGUES                      |Ivan       |      |            |            |            |
+| 11 | GLAUCIMAR APARECIDA DE SIQUEIRA               |Maicon     |      |            |            |            |
 | 12 | GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA |           |      |            |            |            |
 | 13 | GUILLERMO GILIOLI DE PAULA COELHO             |           |      |            |            |            |
-| 14 | HANS DONNER GIL ESPINHA                       |           |      |            |            |            |
+| 14 | HANS DONNER GIL ESPINHA                       |Janecler   |      |            |            |            |
 | 15 | HELLIELTON SANTOS DOS REIS                    |           |      |            |            |            |
 | 16 | ÍCARO GABRIEL ALVES DOS REIS                  |           |      |            |            |            |
 | 17 | JOÃO LUIZ RODIGHERO TELÓ                      |           |      |            |            |            |
 | 18 | KAIKY MARÇAL FERREIRA                         |           |      |            |            |            |
-| 19 | KENNY AMABILE DA ROCHA                        |           |      |            |            |            |
+| 19 | KENNY AMABILE DA ROCHA                        |Benevid    |      |            |            |            |
 | 20 | MAURÍCIO ROBERTO PAGLIARINI FILHO             |           |      |            |            |            |
 | 21 | MAYCON RAMATIS BRUGNERA VASCONCELLOS          |           |      |            |            |            |
 | 22 | OTAVIO MANIEZZO MILAN                         |           |      |            |            |            |
@@ -185,12 +185,12 @@ No momento os professores que temos no curso são:
 | 25 | RYLLER BRITO PEREIRA                          |           |      |            |            |            |
 | 26 | SALATIEL BONFIM GOMES                         |           |      |            |            |            |
 | 27 | SANDY HIKARU HONDA                            |           |      |            |            |            |
-| 28 | THIAGO SMERDECK PEREIRA                       |           |      |            |            |            |
+| 28 | THIAGO SMERDECK PEREIRA                       |Benevid    |      |            |            |            |
 | 29 | VINÍCIUS FREITAS                              |           |      |            |            |            |
-| 30 | VITOR EMANUEL SILVA SAUZEN                    |           |      |            |            |            |
-| 31 | VITOR RODRIGO FRAILLE PEREIRA                 |           |      |            |            |            |
+| 30 | VITOR EMANUEL SILVA SAUZEN                    |Ivan       |      |            |            |            |
+| 31 | VITOR RODRIGO FRAILLE PEREIRA                 |Benevid    |      |            |            |            |
 | 32 | WESLEY RODRIGO BARBOSA MAFRA                  |           |      |            |            |            |
-| 33 | WILLEN SILVA DE SOUZA                         |           |      |            |            |            |
+| 33 | WILLEN SILVA DE SOUZA                         |Ramilton   |      |            |            |            |
 
 
 

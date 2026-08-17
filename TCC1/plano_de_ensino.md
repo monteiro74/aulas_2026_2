@@ -43,6 +43,7 @@
 
 
 
+
 ---
 ## :game_die: 1. Turma: TCC1 FACET-SNP-336 - TRABALHO DE CONCLUSÃO DE CURSO I - T01 (2026.2)
 
@@ -195,20 +196,20 @@ No momento os professores que temos no curso são:
 | -- | ------------------------------------ | --------- | ---- | ---------- | ---------- | ---------- |
 | 1  | ALLAN CRISTIAN KRAUSE                |           |      |            |            |            |
 | 2  | ANDRE FERREIRA HASHIMOTO             |           |      |            |            |            |
-| 3  | ANNA CAROLINA NICACIO NEVES          |           |      |            |            |            |
+| 3  | ANNA CAROLINA NICACIO NEVES          |Maicon     |      |            |            |            |
 | 4  | ANTÔNIO JÚNIOR MARTINS DA SILVA      |           |      |            |            |            |
 | 5  | CAIO FELIPE GOMES LOPES              |           |      |            |            |            |
-| 6  | CARLOS EDUARDO SPAK JUNCHER          |           |      |            |            |            |
+| 6  | CARLOS EDUARDO SPAK JUNCHER          |Benevid    |      |            |            |            |
 | 7  | DANIELE SENKO DE LIMA                |           |      |            |            |            |
-| 8  | DAVID COSTA DE ARAÚJO                |           |      |            |            |            |
-| 9  | DENIS MATEUS BRITOS LOPES            |           |      |            |            |            |
-| 10 | DYENIFER SILVA CUNHA                 |           |      |            |            |            |
+| 8  | DAVID COSTA DE ARAÚJO                |Francisco  |      |            |            |            |
+| 9  | DENIS MATEUS BRITOS LOPES            |Benevid    |      |            |            |            |
+| 10 | DYENIFER SILVA CUNHA                 |Francisco  |      |            |            |            |
 | 11 | EDUARDO DAMIAN BIZIO                 |           |      |            |            |            |
 | 12 | ERIK ROBERTO DE SOUZA MORAIS         |           |      |            |            |            |
-| 13 | FELLIPE MELHORANCA BICALHO TOMASELLA |           |      |            |            |            |
-| 14 | FRANCISCO DE JULIO FARIA             |           |      |            |            |            |
-| 15 | GABRIEL BEREGULA GOMES               |           |      |            |            |            |
-| 16 | GISELLI SATIKO TOYOMOTO FUJIMORI     |           |      |            |            |            |
+| 13 | FELLIPE MELHORANCA BICALHO TOMASELLA |Benevid    |      |            |            |            |
+| 14 | FRANCISCO DE JULIO FARIA             |Maicon     |      |            |            |            |
+| 15 | GABRIEL BEREGULA GOMES               |Maicon     |      |            |            |            |
+| 16 | GISELLI SATIKO TOYOMOTO FUJIMORI     |Ivan+Emiliano|      |            |            |            |
 | 17 | INGLID PABLINA DE ALMEIDA SANDESKI   |           |      |            |            |            |
 | 18 | JOÃO ANTÔNIO BITTENCOURT MONTAGNER   |           |      |            |            |            |
 | 19 | JOÃO PAULO CAVALCANTE ZANATTA        |           |      |            |            |            |
@@ -217,11 +218,11 @@ No momento os professores que temos no curso são:
 | 22 | JOÃO VITOR TRAVASSO                  |           |      |            |            |            |
 | 23 | JULIO CESAR COLLI                    |           |      |            |            |            |
 | 24 | KAROLAINE PONCI DOS SANTOS           |           |      |            |            |            |
-| 25 | LANA EMANUELE DE SOUZA MORAES        |           |      |            |            |            |
+| 25 | LANA EMANUELE DE SOUZA MORAES        |Francisco  |      |            |            |            |
 | 26 | LUCAS BUTASKOSKI                     |           |      |            |            |            |
-| 27 | LUIZ HENRIQUE MOTA XAVIER            |           |      |            |            |            |
+| 27 | LUIZ HENRIQUE MOTA XAVIER            |Janecler   |      |            |            |            |
 | 28 | MARCOS VINICIUS CARVALHO SCALCON     |           |      |            |            |            |
-| 29 | NICOLAS FELIPE HASSELSTROM DA VEIGA  |           |      |            |            |            |
+| 29 | NICOLAS FELIPE HASSELSTROM DA VEIGA  |Maicon     |      |            |            |            |
 | 30 | PAULO HENRIQUE ANDRADE GERALDI       |           |      |            |            |            |
 | 31 | PEDRO HENRIQUE FIGUEIREDO            |           |      |            |            |            |
 | 32 | PEDRO HENRIQUE FREITAS SILVA         |           |      |            |            |            |
@@ -229,7 +230,7 @@ No momento os professores que temos no curso são:
 | 34 | ROBERTO VINICIUS DE MORAIS ALCÂNTARA |           |      |            |            |            |
 | 35 | THAMARA ANSELMO DOS SANTOS           |           |      |            |            |            |
 | 36 | VITOR FORTUNATO DE OLIVEIRA          |           |      |            |            |            |
-| 37 | VITOR LINSBINSKI DE OLIVEIRA         |           |      |            |            |            |
+| 37 | VITOR LINSBINSKI DE OLIVEIRA         | Ivan Pires|      |            |            |            |
 
 
 
