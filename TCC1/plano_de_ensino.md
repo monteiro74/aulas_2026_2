@@ -211,7 +211,7 @@ No momento os professores que temos no curso são:
 | 15 | GABRIEL BEREGULA GOMES               |Maicon     |      |            |            |            |
 | 16 | GISELLI SATIKO TOYOMOTO FUJIMORI     |Ivan+Emiliano|      |            |            |            |
 | 17 | INGLID PABLINA DE ALMEIDA SANDESKI   |           |      |            |            |            |
-| 18 | JOÃO ANTÔNIO BITTENCOURT MONTAGNER   |           |      |            |            |            |
+| 18 | JOÃO ANTÔNIO BITTENCOURT MONTAGNER   |João Ricardo |      |            |            |            |
 | 19 | JOÃO PAULO CAVALCANTE ZANATTA        |           |      |            |            |            |
 | 20 | JOÃO PEDRO BORGES DIAS               |           |      |            |            |            |
 | 21 | JOÃO VITOR DE SOUZA COSTA            |           |      |            |            |            |
