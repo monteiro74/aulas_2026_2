@@ -190,14 +190,46 @@ No momento os professores que temos no curso são:
 
 ### 🧑‍🎓 6.1. Relação Aluno x Professor x Tema:
 
-|Id| Aluno  | Professor | Tema | 1ª Entrega |2ª Entrega |3ª Entrega |
-|--|---------------------------------|--------------------|---------|-----------------|---|---|
-|1 |    |  |  |  |   | |
-|2 |    |  |  |  |   | |
-|3 |    |  |  |  |   | |
-|4 |    |  |  |  |   | |
-|5 |    |  |  |  |   | |
-|6 |    |  |  |  |   | |
+
+| Id | Aluno                                | Professor | Tema | 1ª Entrega | 2ª Entrega | 3ª Entrega |
+| -- | ------------------------------------ | --------- | ---- | ---------- | ---------- | ---------- |
+| 1  | ALLAN CRISTIAN KRAUSE                |           |      |            |            |            |
+| 2  | ANDRE FERREIRA HASHIMOTO             |           |      |            |            |            |
+| 3  | ANNA CAROLINA NICACIO NEVES          |           |      |            |            |            |
+| 4  | ANTÔNIO JÚNIOR MARTINS DA SILVA      |           |      |            |            |            |
+| 5  | CAIO FELIPE GOMES LOPES              |           |      |            |            |            |
+| 6  | CARLOS EDUARDO SPAK JUNCHER          |           |      |            |            |            |
+| 7  | DANIELE SENKO DE LIMA                |           |      |            |            |            |
+| 8  | DAVID COSTA DE ARAÚJO                |           |      |            |            |            |
+| 9  | DENIS MATEUS BRITOS LOPES            |           |      |            |            |            |
+| 10 | DYENIFER SILVA CUNHA                 |           |      |            |            |            |
+| 11 | EDUARDO DAMIAN BIZIO                 |           |      |            |            |            |
+| 12 | ERIK ROBERTO DE SOUZA MORAIS         |           |      |            |            |            |
+| 13 | FELLIPE MELHORANCA BICALHO TOMASELLA |           |      |            |            |            |
+| 14 | FRANCISCO DE JULIO FARIA             |           |      |            |            |            |
+| 15 | GABRIEL BEREGULA GOMES               |           |      |            |            |            |
+| 16 | GISELLI SATIKO TOYOMOTO FUJIMORI     |           |      |            |            |            |
+| 17 | INGLID PABLINA DE ALMEIDA SANDESKI   |           |      |            |            |            |
+| 18 | JOÃO ANTÔNIO BITTENCOURT MONTAGNER   |           |      |            |            |            |
+| 19 | JOÃO PAULO CAVALCANTE ZANATTA        |           |      |            |            |            |
+| 20 | JOÃO PEDRO BORGES DIAS               |           |      |            |            |            |
+| 21 | JOÃO VITOR DE SOUZA COSTA            |           |      |            |            |            |
+| 22 | JOÃO VITOR TRAVASSO                  |           |      |            |            |            |
+| 23 | JULIO CESAR COLLI                    |           |      |            |            |            |
+| 24 | KAROLAINE PONCI DOS SANTOS           |           |      |            |            |            |
+| 25 | LANA EMANUELE DE SOUZA MORAES        |           |      |            |            |            |
+| 26 | LUCAS BUTASKOSKI                     |           |      |            |            |            |
+| 27 | LUIZ HENRIQUE MOTA XAVIER            |           |      |            |            |            |
+| 28 | MARCOS VINICIUS CARVALHO SCALCON     |           |      |            |            |            |
+| 29 | NICOLAS FELIPE HASSELSTROM DA VEIGA  |           |      |            |            |            |
+| 30 | PAULO HENRIQUE ANDRADE GERALDI       |           |      |            |            |            |
+| 31 | PEDRO HENRIQUE FIGUEIREDO            |           |      |            |            |            |
+| 32 | PEDRO HENRIQUE FREITAS SILVA         |           |      |            |            |            |
+| 33 | RENATO ARAUJO DA SILVA               |           |      |            |            |            |
+| 34 | ROBERTO VINICIUS DE MORAIS ALCÂNTARA |           |      |            |            |            |
+| 35 | THAMARA ANSELMO DOS SANTOS           |           |      |            |            |            |
+| 36 | VITOR FORTUNATO DE OLIVEIRA          |           |      |            |            |            |
+| 37 | VITOR LINSBINSKI DE OLIVEIRA         |           |      |            |            |            |
 
 
 
