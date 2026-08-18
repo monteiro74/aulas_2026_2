@@ -230,7 +230,7 @@ Total de entregas na 3a etapa: ...<br>
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/calendario_tcc_2026-1.jpeg](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/calendario_tcc_2026-1.jpeg)
 
-
+.
 
 ---
 ## 📆 8. Calendário de bancas
