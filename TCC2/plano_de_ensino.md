@@ -228,8 +228,7 @@ Total de entregas na 3a etapa: ...<br>
 ---
 ## 📆 7. Calendário geral
 
-![https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/calendario_tcc_2026-1.jpeg](https://raw.githubusercontent.com/monteiro74/aulas_2026_1/refs/heads/main/figuras/calendario_tcc_2026-1.jpeg)
-
+![https://raw.githubusercontent.com/monteiro74/aulas_2026_2/refs/heads/main/calendario_tcc.png](https://raw.githubusercontent.com/monteiro74/aulas_2026_2/refs/heads/main/calendario_tcc.png)
 .
 
 ---
