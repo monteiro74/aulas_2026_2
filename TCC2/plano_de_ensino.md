@@ -187,11 +187,11 @@ No momento os professores que temos no curso são:
 | -- | --------------------------------------------- | --------- | ---- | ---------- | ---------- | ---------- |
 | 1  | ALEX PABLO DE OLIVEIRA MORAES                 |           |      |            |            |            |
 | 2  | BERNARDO POYER GABE AMERICO                   |           |      |            |            |            |
-| 3  | BRUNO BORCARDT RAMOS                          |           |      |            |            |            |
+| 3  | BRUNO BORCARDT RAMOS                          |Ramilton   |      |            |            |            |
 | 4  | CARLA EDUARDA ALVES IZIDORIO                  |Janecler   |      |            |            |            |
 | 5  | CLEDERSON BRUSCO                              |           |      |            |            |            |
 | 6  | DANIEL KRUGER FERREIRA CARDOSO                |Janecler   |      |            |            |            |
-| 7  | ELBER LUCAS ALVES BARBOZA                     |           |      |            |            |            |
+| 7  | ELBER LUCAS ALVES BARBOZA                     |Ramilton   |      |            |            |            |
 | 8  | EMANUEL ESTEVAM DE OLIVEIRA DUTRA             |Ivan       |      |            |            |            |
 | 9  | FELIPE LEAL ALVES                             |           |      |            |            |            |
 | 10 | GABRIEL GUEDES RODRIGUES                      |Ivan       |      |            |            |            |
@@ -205,7 +205,7 @@ No momento os professores que temos no curso são:
 | 18 | KAIKY MARÇAL FERREIRA                         |           |      |            |            |            |
 | 19 | KENNY AMABILE DA ROCHA                        |Benevid    |      |            |            |            |
 | 20 | MAURÍCIO ROBERTO PAGLIARINI FILHO             |           |      |            |            |            |
-| 21 | MAYCON RAMATIS BRUGNERA VASCONCELLOS          |           |      |            |            |            |
+| 21 | MAYCON RAMATIS BRUGNERA VASCONCELLOS          |Ramilton   |      |            |            |            |
 | 22 | OTAVIO MANIEZZO MILAN                         |           |      |            |            |            |
 | 23 | PAULO CÉSAR MARTINS PORTILHO                  |           |      |            |            |            |
 | 24 | PEDRO SALVADOR DE ARAUJO                      |           |      |            |            |            |
@@ -216,7 +216,7 @@ No momento os professores que temos no curso são:
 | 29 | VINÍCIUS FREITAS                              |           |      |            |            |            |
 | 30 | VITOR EMANUEL SILVA SAUZEN                    |Ivan       |      |            |            |            |
 | 31 | VITOR RODRIGO FRAILLE PEREIRA                 |Benevid    |      |            |            |            |
-| 32 | WESLEY RODRIGO BARBOSA MAFRA                  |           |      |            |            |            |
+| 32 | WESLEY RODRIGO BARBOSA MAFRA                  |Ramilton   |      |            |            |            |
 | 33 | WILLEN SILVA DE SOUZA                         |Ramilton   |      |            |            |            |
 
 

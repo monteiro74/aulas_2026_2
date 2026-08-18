@@ -210,14 +210,14 @@ No momento os professores que temos no curso são:
 | 14 | FRANCISCO DE JULIO FARIA             |Maicon     |      |            |            |            |
 | 15 | GABRIEL BEREGULA GOMES               |Maicon     |      |            |            |            |
 | 16 | GISELLI SATIKO TOYOMOTO FUJIMORI     |Ivan+Emiliano|      |            |            |            |
-| 17 | INGLID PABLINA DE ALMEIDA SANDESKI   |           |      |            |            |            |
+| 17 | INGLID PABLINA DE ALMEIDA SANDESKI   |Ramilton   |      |            |            |            |
 | 18 | JOÃO ANTÔNIO BITTENCOURT MONTAGNER   |João Ricardo |      |            |            |            |
 | 19 | JOÃO PAULO CAVALCANTE ZANATTA        |           |      |            |            |            |
 | 20 | JOÃO PEDRO BORGES DIAS               |           |      |            |            |            |
 | 21 | JOÃO VITOR DE SOUZA COSTA            |           |      |            |            |            |
-| 22 | JOÃO VITOR TRAVASSO                  |           |      |            |            |            |
+| 22 | JOÃO VITOR TRAVASSO                  |Janecler   |      |            |            |            |
 | 23 | JULIO CESAR COLLI                    |           |      |            |            |            |
-| 24 | KAROLAINE PONCI DOS SANTOS           |           |      |            |            |            |
+| 24 | KAROLAINE PONCI DOS SANTOS           |Ramilton   |      |            |            |            |
 | 25 | LANA EMANUELE DE SOUZA MORAES        |Francisco  |      |            |            |            |
 | 26 | LUCAS BUTASKOSKI                     |           |      |            |            |            |
 | 27 | LUIZ HENRIQUE MOTA XAVIER            |Janecler   |      |            |            |            |
@@ -228,7 +228,7 @@ No momento os professores que temos no curso são:
 | 32 | PEDRO HENRIQUE FREITAS SILVA         |           |      |            |            |            |
 | 33 | RENATO ARAUJO DA SILVA               |           |      |            |            |            |
 | 34 | ROBERTO VINICIUS DE MORAIS ALCÂNTARA |           |      |            |            |            |
-| 35 | THAMARA ANSELMO DOS SANTOS           |           |      |            |            |            |
+| 35 | THAMARA ANSELMO DOS SANTOS           |Ramilton   |      |            |            |            |
 | 36 | VITOR FORTUNATO DE OLIVEIRA          |           |      |            |            |            |
 | 37 | VITOR LINSBINSKI DE OLIVEIRA         | Ivan Pires|      |            |            |            |
 
