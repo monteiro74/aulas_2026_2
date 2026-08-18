@@ -199,7 +199,7 @@ No momento os professores que temos no curso são:
 | 3  | ANNA CAROLINA NICACIO NEVES          |Maicon     |      |            |            |            |
 | 4  | ANTÔNIO JÚNIOR MARTINS DA SILVA      |           |      |            |            |            |
 | 5  | CAIO FELIPE GOMES LOPES              |           |      |            |            |            |
-| 6  | CARLOS EDUARDO SPAK JUNCHER          |Benevid    |      |            |            |            |
+| 6  | CARLOS EDUARDO SPAK JUNCHER          |Ramilton    |      |            |            |            |
 | 7  | DANIELE SENKO DE LIMA                |           |      |            |            |            |
 | 8  | DAVID COSTA DE ARAÚJO                |Francisco  |      |            |            |            |
 | 9  | DENIS MATEUS BRITOS LOPES            |Benevid    |      |            |            |            |
