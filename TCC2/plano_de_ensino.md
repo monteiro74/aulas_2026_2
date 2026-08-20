@@ -201,7 +201,7 @@ No momento os professores que temos no curso são:
 | 14 | HANS DONNER GIL ESPINHA                       |Janecler   |      |            |            |            |
 | 15 | HELLIELTON SANTOS DOS REIS                    |           |      |            |            |            |
 | 16 | ÍCARO GABRIEL ALVES DOS REIS                  |           |      |            |            |            |
-| 17 | JOÃO LUIZ RODIGHERO TELÓ                      |           |      |            |            |            |
+| 17 | JOÃO LUIZ RODIGHERO TELÓ                      |João Ricardo|      |            |            |            |
 | 18 | KAIKY MARÇAL FERREIRA                         |           |      |            |            |            |
 | 19 | KENNY AMABILE DA ROCHA                        |Benevid    |      |            |            |            |
 | 20 | MAURÍCIO ROBERTO PAGLIARINI FILHO             |           |      |            |            |            |
