@@ -190,12 +190,12 @@ No momento os professores que temos no curso são:
 | 3  | BRUNO BORCARDT RAMOS                          |Ramilton   |      |            |            |            |
 | 4  | CARLA EDUARDA ALVES IZIDORIO                  |Janecler   |      |            |            |            |
 | 5  | CLEDERSON BRUSCO                              |           |      |            |            |            |
-| 6  | DANIEL KRUGER FERREIRA CARDOSO                |Janecler   |      |            |            |            |
-| 7  | ELBER LUCAS ALVES BARBOZA                     |Ramilton   |      |            |            |            |
+| 6  | DANIEL KRUGER FERREIRA CARDOSO                |Janecler   |      |  ✅          |            |            |
+| 7  | ELBER LUCAS ALVES BARBOZA                     |Ramilton   |      |  ✅          |            |            |
 | 8  | EMANUEL ESTEVAM DE OLIVEIRA DUTRA             |Ivan       |      |            |            |            |
 | 9  | FELIPE LEAL ALVES                             |           |      |            |            |            |
 | 10 | GABRIEL GUEDES RODRIGUES                      |Ivan       |      |            |            |            |
-| 11 | GLAUCIMAR APARECIDA DE SIQUEIRA               |Maicon     |      |            |            |            |
+| 11 | GLAUCIMAR APARECIDA DE SIQUEIRA               |Maicon     |      | ✅         |            |            |
 | 12 | GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA |           |      |            |            |            |
 | 13 | GUILLERMO GILIOLI DE PAULA COELHO             |           |      |            |            |            |
 | 14 | HANS DONNER GIL ESPINHA                       |Janecler   |      |            |            |            |
@@ -210,14 +210,14 @@ No momento os professores que temos no curso são:
 | 23 | PAULO CÉSAR MARTINS PORTILHO                  |           |      |            |            |            |
 | 24 | PEDRO SALVADOR DE ARAUJO                      |           |      |            |            |            |
 | 25 | RYLLER BRITO PEREIRA                          |           |      |            |            |            |
-| 26 | SALATIEL BONFIM GOMES                         |Francisco  |      |            |            |            |
+| 26 | SALATIEL BONFIM GOMES                         |Francisco  |      | ✅           |            |            |
 | 27 | SANDY HIKARU HONDA                            |           |      |            |            |            |
-| 28 | THIAGO SMERDECK PEREIRA                       |Benevid    |      |            |            |            |
+| 28 | THIAGO SMERDECK PEREIRA                       |Benevid    |      |   ✅         |            |            |
 | 29 | VINÍCIUS FREITAS                              |           |      |            |            |            |
 | 30 | VITOR EMANUEL SILVA SAUZEN                    |Ivan       |      |            |            |            |
-| 31 | VITOR RODRIGO FRAILLE PEREIRA                 |Benevid    |      |            |            |            |
-| 32 | WESLEY RODRIGO BARBOSA MAFRA                  |Ramilton   |      |            |            |            |
-| 33 | WILLEN SILVA DE SOUZA                         |Ramilton   |      |            |            |            |
+| 31 | VITOR RODRIGO FRAILLE PEREIRA                 |Benevid    |      |     ✅       |            |            |
+| 32 | WESLEY RODRIGO BARBOSA MAFRA                  |Ramilton   |      |   ✅         |            |            |
+| 33 | WILLEN SILVA DE SOUZA                         |Ramilton   |      |   ✅         |            |            |
 
 
 
