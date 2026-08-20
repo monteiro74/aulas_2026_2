@@ -194,31 +194,31 @@ No momento os professores que temos no curso são:
 
 | Id | Aluno                                | Professor | Tema | 1ª Entrega | 2ª Entrega | 3ª Entrega |
 | -- | ------------------------------------ | --------- | ---- | ---------- | ---------- | ---------- |
-| 1  | ALLAN CRISTIAN KRAUSE                |           |      |            |            |            |
+| 1  | ALLAN CRISTIAN KRAUSE                |Tales      |      |            |            |            |
 | 2  | ANDRE FERREIRA HASHIMOTO             |Elias Morgan|      |  ✅          |            |            |
 | 3  | ANNA CAROLINA NICACIO NEVES          |Maicon     |      |            |            |            |
-| 4  | ANTÔNIO JÚNIOR MARTINS DA SILVA      |           |      |            |            |            |
+| 4  | ANTÔNIO JÚNIOR MARTINS DA SILVA      |Tales      |      |            |            |            |
 | 5  | CAIO FELIPE GOMES LOPES              |           |      |            |            |            |
-| 6  | CARLOS EDUARDO SPAK JUNCHER          |Ramilton    |      |            |            |            |
+| 6  | CARLOS EDUARDO SPAK JUNCHER          |Ramilton   |      |            |            |            |
 | 7  | DANIELE SENKO DE LIMA                |           |      |            |            |            |
 | 8  | DAVID COSTA DE ARAÚJO                |Francisco  |      |            |            |            |
 | 9  | DENIS MATEUS BRITOS LOPES            |Benevid    |      |            |            |            |
 | 10 | DYENIFER SILVA CUNHA                 |Francisco  |      |    ✅        |            |            |
-| 11 | EDUARDO DAMIAN BIZIO                 |           |      |            |            |            |
-| 12 | ERIK ROBERTO DE SOUZA MORAIS         |           |      |            |            |            |
+| 11 | EDUARDO DAMIAN BIZIO                 |Tales      |      |            |            |            |
+| 12 | ERIK ROBERTO DE SOUZA MORAIS         |Mauro Jr.  |      |            |            |            |
 | 13 | FELLIPE MELHORANCA BICALHO TOMASELLA |Benevid    |      |    ✅        |            |            |
 | 14 | FRANCISCO DE JULIO FARIA             |Maicon     |      |            |            |            |
 | 15 | GABRIEL BEREGULA GOMES               |Maicon     |      |            |            |            |
-| 16 | GISELLI SATIKO TOYOMOTO FUJIMORI     |Ivan+Emiliano|      |            |            |            |
+| 16 | GISELLI SATIKO TOYOMOTO FUJIMORI     |Emiliano+Ivan|      |            |            |            |
 | 17 | INGLID PABLINA DE ALMEIDA SANDESKI   |Ramilton   |      |    ✅        |            |            |
 | 18 | JOÃO ANTÔNIO BITTENCOURT MONTAGNER   |João Ricardo |      |            |            |            |
 | 19 | JOÃO PAULO CAVALCANTE ZANATTA        |           |      |            |            |            |
 | 20 | JOÃO PEDRO BORGES DIAS               |           |      |            |            |            |
-| 21 | JOÃO VITOR DE SOUZA COSTA            |           |      |            |            |            |
+| 21 | JOÃO VITOR DE SOUZA COSTA            |Tales      |      |            |            |            |
 | 22 | JOÃO VITOR TRAVASSO                  |Janecler   |      |    ✅      |            |            |
 | 23 | JULIO CESAR COLLI                    |           |      |            |            |            |
 | 24 | KAROLAINE PONCI DOS SANTOS           |Ramilton   |      |   ✅         |            |            |
-| 25 | LANA EMANUELE DE SOUZA MORAES        |Francisco  |      |            |            |            |
+| 25 | LANA EMANUELE DE SOUZA MORAES        |Francisco+Ivan  |      |            |            |            |
 | 26 | LUCAS BUTASKOSKI                     |           |      |            |            |            |
 | 27 | LUIZ HENRIQUE MOTA XAVIER            |Janecler   |      |     ✅       |            |            |
 | 28 | MARCOS VINICIUS CARVALHO SCALCON     |           |      |            |            |            |
