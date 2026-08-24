@@ -210,17 +210,17 @@ No momento os professores que temos no curso são:
 | 14 | FRANCISCO DE JULIO FARIA             |Maicon     | Desenvolvimento de aplicação de diagnóstico e gestão veicular em BD OBD2     |  ✅          |            |            |
 | 15 | GABRIEL BEREGULA GOMES               |Maicon     |      |            |            |            |
 | 16 | GISELLI SATIKO TOYOMOTO FUJIMORI     |Emiliano+Ivan| Detecção e contagem de bovinos por visão computacional     |  ✅          |            |            |
-| 17 | INGLID PABLINA DE ALMEIDA SANDESKI   |Ramilton   |      |    ✅        |            |            |
-| 18 | JOÃO ANTÔNIO BITTENCOURT MONTAGNER   |João Ricardo |      |            |            |            |
+| 17 | INGLID PABLINA DE ALMEIDA SANDESKI   |Ramilton+Emiliano   | Detecção de Prompt Injection Indireto em Sistemas RAG utilizando Técnicas de Processamento de Linguagem Natural     |    ✅        |            |            |
+| 18 | JOÃO ANTÔNIO BITTENCOURT MONTAGNER   |João Ricardo | Sistema Web para Gestão de Vendas e Controle de Estoque em Pequenos e Médios Comércios     |   ✅         |            |            |
 | 19 | JOÃO PAULO CAVALCANTE ZANATTA        |           |      |            |            |            |
 | 20 | JOÃO PEDRO BORGES DIAS               |           |      |            |            |            |
-| 21 | JOÃO VITOR DE SOUZA COSTA            |Tales      |      |            |            |            |
-| 22 | JOÃO VITOR TRAVASSO                  |Janecler   |      |    ✅      |            |            |
+| 21 | JOÃO VITOR DE SOUZA COSTA            |Tales      |Plataforma de Triagem de Currículos com Inteligência Artificial para Apoio ao Recrutamento      |  ✅           |            |            |
+| 22 | JOÃO VITOR TRAVASSO                  |Janecler   | PoliSynBR: Detecção de mídias sintéticas no contexto político brasileiro com redes neurais leves     |    ✅      |            |            |
 | 23 | JULIO CESAR COLLI                    |           |      |            |            |            |
-| 24 | KAROLAINE PONCI DOS SANTOS           |Ramilton   |      |   ✅         |            |            |
-| 25 | LANA EMANUELE DE SOUZA MORAES        |Francisco+Ivan  |      |            |            |            |
-| 26 | LUCAS BUTASKOSKI                     |           |      |            |            |            |
-| 27 | LUIZ HENRIQUE MOTA XAVIER            |Janecler   |      |     ✅       |            |            |
+| 24 | KAROLAINE PONCI DOS SANTOS           |Ramilton   | Orquestração de ferramentas Open Source para análise de vulnerabilidades em aplicações web: integração entre OWASP ZAP e Nikto     |   ✅         |            |            |
+| 25 | LANA EMANUELE DE SOUZA MORAES        |Francisco+Ivan  | Desenvolvimento de sistema web para gestão e visualização de dados de sinistros de trânsito     |   ✅         |            |            |
+| 26 | LUCAS BUTASKOSKI                     |Donizete Ritter | Modelo de Otimização Linear para Priorização de Pagamentos e Gestão de Fluxo de Caixa     |   ✅         |            |            |
+| 27 | LUIZ HENRIQUE MOTA XAVIER            |Janecler   | Gestão unificada de dispositivos CFTV     |     ✅       |            |            |
 | 28 | MARCOS VINICIUS CARVALHO SCALCON     |           |      |            |            |            |
 | 29 | NICOLAS FELIPE HASSELSTROM DA VEIGA  |Maicon     |      |            |            |            |
 | 30 | PAULO HENRIQUE ANDRADE GERALDI       |           |      |            |            |            |
