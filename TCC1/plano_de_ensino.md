@@ -194,7 +194,7 @@ No momento os professores que temos no curso são:
 
 | Id | Aluno                                | Professor | Tema | 1ª Entrega | 2ª Entrega | 3ª Entrega |
 | -- | ------------------------------------ | --------- | ---- | ---------- | ---------- | ---------- |
-| 1  | ALLAN CRISTIAN KRAUSE                |Tales      |      |            |            |            |
+| 1  | ALLAN CRISTIAN KRAUSE                |Tales      | Sistema para organização e certificação para galeria de artes     | ✅           |            |            |
 | 2  | ANDRE FERREIRA HASHIMOTO             |Elias Morgan|      |  ✅          |            |            |
 | 3  | ANNA CAROLINA NICACIO NEVES          |Maicon     |      |            |            |            |
 | 4  | ANTÔNIO JÚNIOR MARTINS DA SILVA      |Tales      |      |            |            |            |
