@@ -221,16 +221,16 @@ No momento os professores que temos no curso são:
 | 25 | LANA EMANUELE DE SOUZA MORAES        |Francisco+Ivan  | Desenvolvimento de sistema web para gestão e visualização de dados de sinistros de trânsito     |   ✅         |            |            |
 | 26 | LUCAS BUTASKOSKI                     |Donizete Ritter | Modelo de Otimização Linear para Priorização de Pagamentos e Gestão de Fluxo de Caixa     |   ✅         |            |            |
 | 27 | LUIZ HENRIQUE MOTA XAVIER            |Janecler   | Gestão unificada de dispositivos CFTV     |     ✅       |            |            |
-| 28 | MARCOS VINICIUS CARVALHO SCALCON     |           |      |            |            |            |
-| 29 | NICOLAS FELIPE HASSELSTROM DA VEIGA  |Maicon     |      |            |            |            |
-| 30 | PAULO HENRIQUE ANDRADE GERALDI       |           |      |            |            |            |
+| 28 | MARCOS VINICIUS CARVALHO SCALCON     |Juliano    |Desenvolvimento de um Sistema IoT para Monitoramento e Detecção de Anomalias em Bebedouros de Bovinos de Corte      |   ✅         |            |            |
+| 29 | NICOLAS FELIPE HASSELSTROM DA VEIGA  |Maicon     | Experimentação e integração de rede Zigbee com Raspberry PI  |   ✅         |            |            |
+| 30 | PAULO HENRIQUE ANDRADE GERALDI       |Mauro      |Sistemas de Informação e inovação tecnológica aplicados à Sustentabilidade      |  ✅          |            |            |
 | 31 | PEDRO HENRIQUE FIGUEIREDO            |           |      |            |            |            |
-| 32 | PEDRO HENRIQUE FREITAS SILVA         |           |      |            |            |            |
-| 33 | RENATO ARAUJO DA SILVA               |           |      |            |            |            |
-| 34 | ROBERTO VINICIUS DE MORAIS ALCÂNTARA |           |      |            |            |            |
-| 35 | THAMARA ANSELMO DOS SANTOS           |Ramilton   |      |            |            |            |
+| 32 | PEDRO HENRIQUE FREITAS SILVA         |Tales      | Desenvolvimento de um sistema inteligente de apoio à decisão para traders utilizando técnicas de Machine Learning aplicadas ao Mini Índice (WIN)     |  ✅          |            |            |
+| 33 | RENATO ARAUJO DA SILVA               |Juliano    | Software “Estoque Fácil”     | ✅            |            |            |
+| 34 | ROBERTO VINICIUS DE MORAIS ALCÂNTARA |Benevid    | Organização Inteligente de Acervos Fotográficos por Meio de Técnicas de Inteligência Artificial     |   ✅          |            |            |
+| 35 | THAMARA ANSELMO DOS SANTOS           |Ramilton   | Proposta de um Modelo Estratégico para Avaliação da Maturidade em Governança e Segurança da Informação em Organizações em Transformação Digital     |    ✅         |            |            |
 | 36 | VITOR FORTUNATO DE OLIVEIRA          |           |      |            |            |            |
-| 37 | VITOR LINSBINSKI DE OLIVEIRA         | Ivan Pires|      |            |            |            |
+| 37 | VITOR LINSBINSKI DE OLIVEIRA         | Ivan Pires| Plataforma de Inteligência Territorial Para O Setor De Base Florestal Do Estado De Mato Grosso     | ✅           |            |            |
 
 
 
