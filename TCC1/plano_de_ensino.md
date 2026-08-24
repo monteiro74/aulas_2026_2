@@ -204,12 +204,12 @@ No momento os professores que temos no curso são:
 | 8  | DAVID COSTA DE ARAÚJO                |Tales | Automação de Emissão de Guias na Prefeitura de Sinop     | ✅           |            |            |
 | 9  | DENIS MATEUS BRITOS LOPES            |Benevid    | Sistema Inteligente para Detecção Automática do Uso de Equipamentos de Proteção Individual por Meio de Visão Computacional      | ✅           |            |            |
 | 10 | DYENIFER SILVA CUNHA                 |Francisco  | Mapeamento Tecnológico da Banda Larga no Mato Grosso: Cruzamento de dados da Anatel e IBGE     |    ✅        |            |            |
-| 11 | EDUARDO DAMIAN BIZIO                 |Tales      |      |            |            |            |
-| 12 | ERIK ROBERTO DE SOUZA MORAIS         |Mauro Jr.  |      |            |            |            |
-| 13 | FELLIPE MELHORANCA BICALHO TOMASELLA |Benevid    |      |    ✅        |            |            |
-| 14 | FRANCISCO DE JULIO FARIA             |Maicon     |      |            |            |            |
+| 11 | EDUARDO DAMIAN BIZIO                 |Tales      | Desenvolvimento de uma Ferramenta Web para Automatização de Orçamentos em Vidraçarias     |  ✅          |            |            |
+| 12 | ERIK ROBERTO DE SOUZA MORAIS         |Mauro Jr.  | Desenvolvimento de uma plataforma web para suporte e estruturação de trabalhos acadêmicos     | ✅           |            |            |
+| 13 | FELLIPE MELHORANCA BICALHO TOMASELLA |Benevid    | Desenvolvimento de um sistema de análise de satisfação baseado em Inteligência Artificial     |    ✅        |            |            |
+| 14 | FRANCISCO DE JULIO FARIA             |Maicon     | Desenvolvimento de aplicação de diagnóstico e gestão veicular em BD OBD2     |  ✅          |            |            |
 | 15 | GABRIEL BEREGULA GOMES               |Maicon     |      |            |            |            |
-| 16 | GISELLI SATIKO TOYOMOTO FUJIMORI     |Emiliano+Ivan|      |            |            |            |
+| 16 | GISELLI SATIKO TOYOMOTO FUJIMORI     |Emiliano+Ivan| Detecção e contagem de bovinos por visão computacional     |  ✅          |            |            |
 | 17 | INGLID PABLINA DE ALMEIDA SANDESKI   |Ramilton   |      |    ✅        |            |            |
 | 18 | JOÃO ANTÔNIO BITTENCOURT MONTAGNER   |João Ricardo |      |            |            |            |
 | 19 | JOÃO PAULO CAVALCANTE ZANATTA        |           |      |            |            |            |
