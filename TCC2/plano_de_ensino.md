@@ -140,7 +140,7 @@ Links para os documentos de TCC2:
 ou
 2. No Sigaa (na disciplina de TCC)
 ou
-3. No repositório da disciplina: https://github.com/monteiro74/aulas_2025_2/tree/main/tcc2
+3. No repositório da disciplina neste [repositório](https://github.com/monteiro74/aulas_2026_2/tree/main/TCC2)
 ou
 4. O template de artigo do TCC 2 no Overleaf: https://www.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr
 

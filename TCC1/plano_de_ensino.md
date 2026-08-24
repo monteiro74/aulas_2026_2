@@ -156,9 +156,9 @@ Links para os documentos de TCC1:
 ou
 2. No Sigaa (na disciplina de TCC).
 ou
-3. No repositório da disciplina: https://github.com/monteiro74/aulas_2025_2/tree/main/tcc1
+1. No repositório da disciplina neste [repositório](https://github.com/monteiro74/aulas_2026_2/tree/main/TCC1)
 
-4. O template de projeto do TCC 1 no Overleaf: https://www.overleaf.com/read/nbdjpvwkjdjy#44d1b3
+2. O template de projeto do TCC 1 no Overleaf: https://www.overleaf.com/read/nbdjpvwkjdjy#44d1b3
 
 ---
 ## :alarm_clock: 6. Professores x áreas de orientação
