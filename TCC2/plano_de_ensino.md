@@ -214,10 +214,10 @@ No momento os professores que temos no curso são:
 | 27 | SANDY HIKARU HONDA                            |Ramilton   | Alukey: sistema web para gestão automatizada de contratos de aluguel     | ✅            |            |            |
 | 28 | THIAGO SMERDECK PEREIRA                       |Benevid    | Sistema de monitoramento baseado em Iot e automação para pequenos centros de dados     |   ✅         |            |            |
 | 29 | VINÍCIUS FREITAS                              |João Ricardo|Gamificação de ambientes educacionais com Godot      |     ✅       |            |            |
-| 30 | VITOR EMANUEL SILVA SAUZEN                    |Ivan       |      |            |            |            |
-| 31 | VITOR RODRIGO FRAILLE PEREIRA                 |Benevid    |      |     ✅       |            |            |
-| 32 | WESLEY RODRIGO BARBOSA MAFRA                  |Ramilton   |      |   ✅         |            |            |
-| 33 | WILLEN SILVA DE SOUZA                         |Ramilton   |      |   ✅         |            |            |
+| 30 | VITOR EMANUEL SILVA SAUZEN                    |Ivan       | Implementação do backend de uma plataforma digital inteligente para a rastreabilidade e governança de resíduos de construção civil     |     ✅         |            |            |
+| 31 | VITOR RODRIGO FRAILLE PEREIRA                 |Benevid    | Hidrômetro digital utilizando ESP32 e aplicação web     |     ✅       |            |            |
+| 32 | WESLEY RODRIGO BARBOSA MAFRA                  |Ramilton   | semáforos inteligentes baseados em ia aplicada à visão computacional     |   ✅         |            |            |
+| 33 | WILLEN SILVA DE SOUZA                         |Ramilton   | Pipeline de extração e estruturação de dados para banco vetorial com n8n     |   ✅         |            |            |
 
 
 
