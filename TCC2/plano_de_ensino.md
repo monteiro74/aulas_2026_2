@@ -202,10 +202,10 @@ No momento os professores que temos no curso são:
 | 15 | HELLIELTON SANTOS DOS REIS                    |Juliano    | Aplicação de inteligência artificial na triagem e organização de documentos contábeis     |   ✅      |       |        |
 | 16 | ÍCARO GABRIEL ALVES DOS REIS                  |João Ricardo| Acessibilidade visual em jogos digitais: inspeção baseada em diretrizes de recursos para jogadores com daltonismo em um protótipo desenvolvido na Unity | ✅   |      |            |
 | 17 | JOÃO LUIZ RODIGHERO TELÓ                      |João Ricardo| Sistema para a gestão administrativa e financeira de clínica odontológicas | ✅  |            |            |
-| 18 | KAIKY MARÇAL FERREIRA                         |João Ricardo| Desafios no design de ia de perseguição em metroidvanias: como mitigar comportamentos emergentes indesejados que quebram a imersão e a dificuldade.     |  ✅  |            |            |
-| 19 | KENNY AMABILE DA ROCHA                        |Benevid    | Sistema de monitoramento de servidores baseado em iot: uma abordagem com esp32 para temperatura, umidade e fumaça     |   ✅          |            |            |
-| 20 | MAURÍCIO ROBERTO PAGLIARINI FILHO             |           |      |            |            |            |
-| 21 | MAYCON RAMATIS BRUGNERA VASCONCELLOS          |Ramilton   |      |            |            |            |
+| 18 | KAIKY MARÇAL FERREIRA                         |João Ricardo| Desafios no design de IA de perseguição em Metroidvanias: como mitigar comportamentos emergentes indesejados que quebram a imersão e a dificuldade.     |  ✅  |            |            |
+| 19 | KENNY AMABILE DA ROCHA                        |Benevid    | Sistema de monitoramento de servidores baseado em IoT: uma abordagem com esp32 para temperatura, umidade e fumaça     |   ✅          |            |            |
+| 20 | MAURÍCIO ROBERTO PAGLIARINI FILHO             |Ramilton   | Regressão linear como ferramenta para modelos de predição em machine learning     |  ✅    |            |            |
+| 21 | MAYCON RAMATIS BRUGNERA VASCONCELLOS          |Ramilton   | App Inclusivo: Descrição de Imagens para Pessoas com Deficiência Visual     |  ✅          |            |            |
 | 22 | OTAVIO MANIEZZO MILAN                         |           |      |            |            |            |
 | 23 | PAULO CÉSAR MARTINS PORTILHO                  |           |      |            |            |            |
 | 24 | PEDRO SALVADOR DE ARAUJO                      |           |      |            |            |            |
