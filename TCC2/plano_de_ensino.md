@@ -197,8 +197,8 @@ No momento os professores que temos no curso são:
 | 10 | GABRIEL GUEDES RODRIGUES                      |Ivan       | Plataforma para Validação e Verificação de Conformidade Documental Baseada em Templates e Regras Configuráveis     |   ✅          |            |            |
 | 11 | GLAUCIMAR APARECIDA DE SIQUEIRA               |Maicon     | Redes Neurais Convolucionais Aplicadas a Diagnose de Doenças Foliares da Soja     | ✅         |            |            |
 | 12 | GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA |João Ricardo |  Exploração de estéticas retrô na unity: manipulação artística de técnicas gráficas do estilo psx e nintendo 64    | ✅            |            |            |
-| 13 | GUILLERMO GILIOLI DE PAULA COELHO             |           |      |            |            |            |
-| 14 | HANS DONNER GIL ESPINHA                       |Janecler   |      |            |            |            |
+| 13 | GUILLERMO GILIOLI DE PAULA COELHO             |João Ricardo           | Nexus: uma aplicação web para gerenciamento de fluxo de cotações     |   ✅         |            |            |
+| 14 | HANS DONNER GIL ESPINHA                       |Janecler   |Adoção do ITIL 4 para a Estruturação da Gestão de Serviços de TI: um estudo de caso em uma Software House      |   ✅          |            |            |
 | 15 | HELLIELTON SANTOS DOS REIS                    |           |      |            |            |            |
 | 16 | ÍCARO GABRIEL ALVES DOS REIS                  |           |      |            |            |            |
 | 17 | JOÃO LUIZ RODIGHERO TELÓ                      |João Ricardo|      |            |            |            |
