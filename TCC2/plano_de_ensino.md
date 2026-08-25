@@ -187,7 +187,7 @@ No momento os professores que temos no curso são:
 | -- | --------------------------------------------- | --------- | ---- | ---------- | ---------- | ---------- |
 | 1  | ALEX PABLO DE OLIVEIRA MORAES                 |           |      |            |            |            |
 | 2  | BERNARDO POYER GABE AMERICO                   |           |      |            |            |            |
-| 3  | BRUNO BORCARDT RAMOS                          |Ramilton   |Tecnocracia Excludente e Inclusão Digital: Desenvolvimento de uma Ferramenta Open-Source para Autoria de Websites Acessíveis      |  ✅          |            |            |
+| 3  | BRUNO BORCARDT RAMOS                          |Ramilton   | Tecnocracia Excludente e Inclusão Digital: Desenvolvimento de uma Ferramenta Open-Source para Autoria de Websites Acessíveis      |  ✅          |            |            |
 | 4  | CARLA EDUARDA ALVES IZIDORIO                  |Janecler   |      |            |            |            |
 | 5  | CLEDERSON BRUSCO                              |           |      |            |            |            |
 | 6  | DANIEL KRUGER FERREIRA CARDOSO                |Janecler   | DOCFLOW: plataforma web para gestão de onboarding de colaboradores.    |  ✅          |            |            |
@@ -196,12 +196,12 @@ No momento os professores que temos no curso são:
 | 9  | FELIPE LEAL ALVES                             |Morgan     | Desenvolvimento de uma extensão de navegador para assistência e interação inteligente com páginas Web baseada em IA     |   ✅          |            |            |
 | 10 | GABRIEL GUEDES RODRIGUES                      |Ivan       | Plataforma para Validação e Verificação de Conformidade Documental Baseada em Templates e Regras Configuráveis     |   ✅          |            |            |
 | 11 | GLAUCIMAR APARECIDA DE SIQUEIRA               |Maicon     | Redes Neurais Convolucionais Aplicadas a Diagnose de Doenças Foliares da Soja     | ✅         |            |            |
-| 12 | GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA |João Ricardo |  Exploração de estéticas retrô na unity: manipulação artística de técnicas gráficas do estilo psx e nintendo 64    | ✅            |            |            |
-| 13 | GUILLERMO GILIOLI DE PAULA COELHO             |João Ricardo           | Nexus: uma aplicação web para gerenciamento de fluxo de cotações     |   ✅         |            |            |
-| 14 | HANS DONNER GIL ESPINHA                       |Janecler   |Adoção do ITIL 4 para a Estruturação da Gestão de Serviços de TI: um estudo de caso em uma Software House      |   ✅          |            |            |
-| 15 | HELLIELTON SANTOS DOS REIS                    |Juliano           | Aplicação de inteligência artificial na triagem e organização de documentos contábeis     |   ✅         |            |            |
-| 16 | ÍCARO GABRIEL ALVES DOS REIS                  |           |      |            |            |            |
-| 17 | JOÃO LUIZ RODIGHERO TELÓ                      |João Ricardo|      |            |            |            |
+| 12 | GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA |João Ricardo|  Exploração de estéticas retrô na unity: manipulação artística de técnicas gráficas do estilo psx e nintendo 64    | ✅            |            |            |
+| 13 | GUILLERMO GILIOLI DE PAULA COELHO             |João Ricardo| Nexus: uma aplicação web para gerenciamento de fluxo de cotações     |   ✅     |       |            |
+| 14 | HANS DONNER GIL ESPINHA                       |Janecler   | Adoção do ITIL 4 para a Estruturação da Gestão de Serviços de TI: um estudo de caso em uma Software House    |   ✅          |            |            |
+| 15 | HELLIELTON SANTOS DOS REIS                    |Juliano    | Aplicação de inteligência artificial na triagem e organização de documentos contábeis     |   ✅      |       |        |
+| 16 | ÍCARO GABRIEL ALVES DOS REIS                  |João Ricardo| Acessibilidade visual em jogos digitais: inspeção baseada em diretrizes de recursos para jogadores com daltonismo em um protótipo desenvolvido na unity | ✅   |      |            |
+| 17 | JOÃO LUIZ RODIGHERO TELÓ                      |João Ricardo| Sistema para a gestão administrativa e financeira de clínica odontológicas | ✅  |            |            |
 | 18 | KAIKY MARÇAL FERREIRA                         |           |      |            |            |            |
 | 19 | KENNY AMABILE DA ROCHA                        |Benevid    |      |            |            |            |
 | 20 | MAURÍCIO ROBERTO PAGLIARINI FILHO             |           |      |            |            |            |
