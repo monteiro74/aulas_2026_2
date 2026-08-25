@@ -206,9 +206,9 @@ No momento os professores que temos no curso são:
 | 19 | KENNY AMABILE DA ROCHA                        |Benevid    | Sistema de monitoramento de servidores baseado em IoT: uma abordagem com esp32 para temperatura, umidade e fumaça     |   ✅          |            |            |
 | 20 | MAURÍCIO ROBERTO PAGLIARINI FILHO             |Ramilton   | Regressão linear como ferramenta para modelos de predição em machine learning     |  ✅    |            |            |
 | 21 | MAYCON RAMATIS BRUGNERA VASCONCELLOS          |Ramilton   | App Inclusivo: Descrição de Imagens para Pessoas com Deficiência Visual     |  ✅          |            |            |
-| 22 | OTAVIO MANIEZZO MILAN                         |           |      |            |            |            |
+| 22 | OTAVIO MANIEZZO MILAN                         |João Ricardo | Otimização do carregamento de áreas interconectadas em jogos metroidvania 3d: abordagem para previnir quedas de desempenho     |   ✅          |            |            |
 | 23 | PAULO CÉSAR MARTINS PORTILHO                  |           |      |            |            |            |
-| 24 | PEDRO SALVADOR DE ARAUJO                      |           |      |            |            |            |
+| 24 | PEDRO SALVADOR DE ARAUJO                      |Juliano           | Gestão de contratos de locação     |            |            |            |
 | 25 | RYLLER BRITO PEREIRA                          |           |      |            |            |            |
 | 26 | SALATIEL BONFIM GOMES                         |Francisco  |      | ✅           |            |            |
 | 27 | SANDY HIKARU HONDA                            |           |      |            |            |            |
