@@ -196,7 +196,7 @@ No momento os professores que temos no curso são:
 | 9  | FELIPE LEAL ALVES                             |Morgan     | Desenvolvimento de uma extensão de navegador para assistência e interação inteligente com páginas Web baseada em IA     |   ✅          |            |            |
 | 10 | GABRIEL GUEDES RODRIGUES                      |Ivan       | Plataforma para Validação e Verificação de Conformidade Documental Baseada em Templates e Regras Configuráveis     |   ✅          |            |            |
 | 11 | GLAUCIMAR APARECIDA DE SIQUEIRA               |Maicon     | Redes Neurais Convolucionais Aplicadas a Diagnose de Doenças Foliares da Soja     | ✅         |            |            |
-| 12 | GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA |           |      |            |            |            |
+| 12 | GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA |João Ricardo |  Exploração de estéticas retrô na unity: manipulação artística de técnicas gráficas do estilo psx e nintendo 64    | ✅            |            |            |
 | 13 | GUILLERMO GILIOLI DE PAULA COELHO             |           |      |            |            |            |
 | 14 | HANS DONNER GIL ESPINHA                       |Janecler   |      |            |            |            |
 | 15 | HELLIELTON SANTOS DOS REIS                    |           |      |            |            |            |
