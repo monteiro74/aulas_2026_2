@@ -210,9 +210,9 @@ No momento os professores que temos no curso são:
 | 23 | PAULO CÉSAR MARTINS PORTILHO                  |           |      |            |            |            |
 | 24 | PEDRO SALVADOR DE ARAUJO                      |Juliano           | Gestão de contratos de locação     |            |            |            |
 | 25 | RYLLER BRITO PEREIRA                          |Elisangela | Avaliação da Experiência do Usuário (UX) e do Design de Interação (IX) no Aplicativo Móvel do SIGAA da UNEMAT sob a Perspectiva da Interação HumanoComputador (IHC)     | ✅           |            |            |
-| 26 | SALATIEL BONFIM GOMES                         |Francisco  |      | ✅           |            |            |
-| 27 | SANDY HIKARU HONDA                            |           |      |            |            |            |
-| 28 | THIAGO SMERDECK PEREIRA                       |Benevid    |      |   ✅         |            |            |
+| 26 | SALATIEL BONFIM GOMES                         |Francisco  |Proposta de migração de arquitetura de integração de dados de saúde: do modelo ETL legado para interoperabilidade com o padrão HL7 FHIR      | ✅           |            |            |
+| 27 | SANDY HIKARU HONDA                            |Ramilton   | Alukey: sistema web para gestão automatizada de contratos de aluguel     | ✅            |            |            |
+| 28 | THIAGO SMERDECK PEREIRA                       |Benevid   | Sistema de monitoramento baseado em Iot e automação para pequenos centros de dados     |   ✅         |            |            |
 | 29 | VINÍCIUS FREITAS                              |           |      |            |            |            |
 | 30 | VITOR EMANUEL SILVA SAUZEN                    |Ivan       |      |            |            |            |
 | 31 | VITOR RODRIGO FRAILLE PEREIRA                 |Benevid    |      |     ✅       |            |            |
