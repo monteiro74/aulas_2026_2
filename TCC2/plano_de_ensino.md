@@ -199,7 +199,7 @@ No momento os professores que temos no curso são:
 | 12 | GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA |João Ricardo |  Exploração de estéticas retrô na unity: manipulação artística de técnicas gráficas do estilo psx e nintendo 64    | ✅            |            |            |
 | 13 | GUILLERMO GILIOLI DE PAULA COELHO             |João Ricardo           | Nexus: uma aplicação web para gerenciamento de fluxo de cotações     |   ✅         |            |            |
 | 14 | HANS DONNER GIL ESPINHA                       |Janecler   |Adoção do ITIL 4 para a Estruturação da Gestão de Serviços de TI: um estudo de caso em uma Software House      |   ✅          |            |            |
-| 15 | HELLIELTON SANTOS DOS REIS                    |           |      |            |            |            |
+| 15 | HELLIELTON SANTOS DOS REIS                    |Juliano           | Aplicação de inteligência artificial na triagem e organização de documentos contábeis     |   ✅         |            |            |
 | 16 | ÍCARO GABRIEL ALVES DOS REIS                  |           |      |            |            |            |
 | 17 | JOÃO LUIZ RODIGHERO TELÓ                      |João Ricardo|      |            |            |            |
 | 18 | KAIKY MARÇAL FERREIRA                         |           |      |            |            |            |
