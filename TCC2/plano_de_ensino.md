@@ -209,7 +209,7 @@ No momento os professores que temos no curso são:
 | 22 | OTAVIO MANIEZZO MILAN                         |João Ricardo | Otimização do carregamento de áreas interconectadas em jogos metroidvania 3d: abordagem para previnir quedas de desempenho     |   ✅          |            |            |
 | 23 | PAULO CÉSAR MARTINS PORTILHO                  |           |      |            |            |            |
 | 24 | PEDRO SALVADOR DE ARAUJO                      |Juliano           | Gestão de contratos de locação     |            |            |            |
-| 25 | RYLLER BRITO PEREIRA                          |           |      |            |            |            |
+| 25 | RYLLER BRITO PEREIRA                          |Elisangela | Avaliação da Experiência do Usuário (UX) e do Design de Interação (IX) no Aplicativo Móvel do SIGAA da UNEMAT sob a Perspectiva da Interação HumanoComputador (IHC)     | ✅           |            |            |
 | 26 | SALATIEL BONFIM GOMES                         |Francisco  |      | ✅           |            |            |
 | 27 | SANDY HIKARU HONDA                            |           |      |            |            |            |
 | 28 | THIAGO SMERDECK PEREIRA                       |Benevid    |      |   ✅         |            |            |
