@@ -190,11 +190,11 @@ No momento os professores que temos no curso são:
 | 3  | BRUNO BORCARDT RAMOS                          |Ramilton   |Tecnocracia Excludente e Inclusão Digital: Desenvolvimento de uma Ferramenta Open-Source para Autoria de Websites Acessíveis      |  ✅          |            |            |
 | 4  | CARLA EDUARDA ALVES IZIDORIO                  |Janecler   |      |            |            |            |
 | 5  | CLEDERSON BRUSCO                              |           |      |            |            |            |
-| 6  | DANIEL KRUGER FERREIRA CARDOSO                |Janecler   |      |  ✅          |            |            |
-| 7  | ELBER LUCAS ALVES BARBOZA                     |Ramilton   |      |  ✅          |            |            |
-| 8  | EMANUEL ESTEVAM DE OLIVEIRA DUTRA             |Ivan       |      |            |            |            |
-| 9  | FELIPE LEAL ALVES                             |           |      |            |            |            |
-| 10 | GABRIEL GUEDES RODRIGUES                      |Ivan       |      |            |            |            |
+| 6  | DANIEL KRUGER FERREIRA CARDOSO                |Janecler   | DOCFLOW: plataforma web para gestão de onboarding de colaboradores.    |  ✅          |            |            |
+| 7  | ELBER LUCAS ALVES BARBOZA                     |Ramilton   | Simulador Web de Táticas de Futebol com Inteligência Artificial Executada no Navegador     |  ✅          |            |            |
+| 8  | EMANUEL ESTEVAM DE OLIVEIRA DUTRA             |Ivan       | Desenvolvimento do Frontend de uma Plataforma Digital Colaborativa para Gestão Sustentável de Resíduos da Construção Civil    |  ✅           |            |            |
+| 9  | FELIPE LEAL ALVES                             |Morgan     | Desenvolvimento de uma extensão de navegador para assistência e interação inteligente com páginas Web baseada em IA     |   ✅          |            |            |
+| 10 | GABRIEL GUEDES RODRIGUES                      |Ivan       | Plataforma para Validação e Verificação de Conformidade Documental Baseada em Templates e Regras Configuráveis     |   ✅          |            |            |
 | 11 | GLAUCIMAR APARECIDA DE SIQUEIRA               |Maicon     |      | ✅         |            |            |
 | 12 | GUILHERME HENRIQUE ANSCHAU XAVIER DE OLIVEIRA |           |      |            |            |            |
 | 13 | GUILLERMO GILIOLI DE PAULA COELHO             |           |      |            |            |            |
