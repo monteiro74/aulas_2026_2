@@ -188,7 +188,7 @@ No momento os professores que temos no curso são:
 | 1  | ALEX PABLO DE OLIVEIRA MORAES                 |           |      |            |            |            |
 | 2  | BERNARDO POYER GABE AMERICO                   |           |      |            |            |            |
 | 3  | BRUNO BORCARDT RAMOS                          |Ramilton   | Tecnocracia Excludente e Inclusão Digital: Desenvolvimento de uma Ferramenta Open-Source para Autoria de Websites Acessíveis      |  ✅          |            |            |
-| 4  | CARLA EDUARDA ALVES IZIDORIO                  |Janecler   |      |            |            |            |
+| 4  | CARLA EDUARDA ALVES IZIDORIO                  |Janecler   |Avaliação da Eficácia das Métricas de Desempenho em Equipes que Utilizam Scrum      | ✅           |            |            |
 | 5  | CLEDERSON BRUSCO                              |           |      |            |            |            |
 | 6  | DANIEL KRUGER FERREIRA CARDOSO                |Janecler   | DOCFLOW: plataforma web para gestão de onboarding de colaboradores.    |  ✅          |            |            |
 | 7  | ELBER LUCAS ALVES BARBOZA                     |Ramilton   | Simulador Web de Táticas de Futebol com Inteligência Artificial Executada no Navegador     |  ✅          |            |            |
