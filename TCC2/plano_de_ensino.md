@@ -208,7 +208,7 @@ No momento os professores que temos no curso são:
 | 21 | MAYCON RAMATIS BRUGNERA VASCONCELLOS          |Ramilton   | App Inclusivo: Descrição de Imagens para Pessoas com Deficiência Visual     |  ✅          |            |            |
 | 22 | OTAVIO MANIEZZO MILAN                         |João Ricardo | Otimização do carregamento de áreas interconectadas em jogos metroidvania 3d: abordagem para previnir quedas de desempenho     |   ✅          |            |            |
 | 23 | PAULO CÉSAR MARTINS PORTILHO                  |           |      |            |            |            |
-| 24 | PEDRO SALVADOR DE ARAUJO                      |Juliano           |     | ⚠️   |            |            |
+| 24 | PEDRO SALVADOR DE ARAUJO                      |Juliano           |  GESTÃO DE CONTRATOS DE LOCAÇÃO   |  ✅   |            |            |
 | 25 | RYLLER BRITO PEREIRA                          |Elisangela | Avaliação da Experiência do Usuário (UX) e do Design de Interação (IX) no Aplicativo Móvel do SIGAA da UNEMAT sob a Perspectiva da Interação HumanoComputador (IHC)     | ✅           |            |            |
 | 26 | SALATIEL BONFIM GOMES                         |Francisco  |Proposta de migração de arquitetura de integração de dados de saúde: do modelo ETL legado para interoperabilidade com o padrão HL7 FHIR      | ✅           |            |            |
 | 27 | SANDY HIKARU HONDA                            |Ramilton   | Alukey: sistema web para gestão automatizada de contratos de aluguel     | ✅            |            |            |
