@@ -199,7 +199,7 @@ No momento os professores que temos no curso são:
 | 3  | ANNA CAROLINA NICACIO NEVES          |Maicon     | Interface Conversacional para Gestão de Conhecimento Organizacional     |  ✅          |            |            |
 | 4  | ANTÔNIO JÚNIOR MARTINS DA SILVA      |Tales      | Desenvolvimento de um Sistema Web para Gerenciamento e Verificação do Fluxo de Serviços em Oficinas Mecânicas     |  ✅          |            |            |
 | 5  | CAIO FELIPE GOMES LOPES              | Mauro     | Uso de Inteligência Artificial Generativa para Monitoramento e Síntese de Informações em Grupos do WhatsApp: Caso Wasumo     | ✅            |            |            |
-| 6  | CARLOS EDUARDO SPAK JUNCHER          |Ramilton   |      |            |            |            |
+| 6  | CARLOS EDUARDO SPAK JUNCHER          |Ramilton   | Desenvolvimento de processo ELT aplicado a internações clínicas para suporte à predição de possíveis agravos no estado do paciente, da área de Engenharia de Dados e Treinamento de modelo.     |  ✅          |            |            |
 | 7  | DANIELE SENKO DE LIMA                |Donizere+Emiliano| Complexidade De Algoritmos Aplicada À Compressão De Documentos No Backend Do Juscleaner      |   ✅         |            |            |
 | 8  | DAVID COSTA DE ARAÚJO                |Tales | Automação de Emissão de Guias na Prefeitura de Sinop     | ✅           |            |            |
 | 9  | DENIS MATEUS BRITOS LOPES            |Benevid    | Sistema Inteligente para Detecção Automática do Uso de Equipamentos de Proteção Individual por Meio de Visão Computacional      | ✅           |            |            |
