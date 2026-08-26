@@ -185,7 +185,7 @@ No momento os professores que temos no curso são:
 
 | Id | Aluno                                         | Professor | Tema | 1ª Entrega | 2ª Entrega | 3ª Entrega |
 | -- | --------------------------------------------- | --------- | ---- | ---------- | ---------- | ---------- |
-| 1  | ALEX PABLO DE OLIVEIRA MORAES                 |           |      |            |            |            |
+| 1  | ALEX PABLO DE OLIVEIRA MORAES                 |Joao Ricardo | Desenvolvimento de uma Plataforma Web para Automação da Gestão de Documentos em Escritórios de Contabilidade Utilizando IA Generativa     |  ✅           |            |            |
 | 2  | BERNARDO POYER GABE AMERICO                   |           |      |            |            |            |
 | 3  | BRUNO BORCARDT RAMOS                          |Ramilton   | Tecnocracia Excludente e Inclusão Digital: Desenvolvimento de uma Ferramenta Open-Source para Autoria de Websites Acessíveis      |  ✅          |            |            |
 | 4  | CARLA EDUARDA ALVES IZIDORIO                  |Janecler   |Avaliação da Eficácia das Métricas de Desempenho em Equipes que Utilizam Scrum      | ✅           |            |            |
