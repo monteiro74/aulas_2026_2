@@ -173,9 +173,9 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 ## :date: 5. Unidades de avaliações
 
-* Avaliação 1: / /2026.
-* Avaliação 2: / /2026.
-* Avaliação 3: / /2026.
+* Avaliação 1: 10/09/2026.
+* Avaliação 2: 15/10/2026.
+* Avaliação 3: 19/11/2026.
 
 ---
 ## :hammer_and_wrench: 6. Links para download de ferramentas
