@@ -169,13 +169,13 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-|  1  |  | 3hs | Apresentação da disciplina. Conceitos de engenharia de dados.  Conceitos, exemplos de big data, diferenças entre engenharia de dados x análise de dados x cientísta de dados; atribuições dos profissionais; ETL xELT; conceitos de Data warehouse, data mart, data lake e virtualização de dados. Comentários sobre as referências bibliográficas. [Slides da aula 1](https://docs.google.com/presentation/d/1bf2nVRggSYgTmzqM9s-kYssAW016gKI064L-LAG8o9Y/edit?usp=view), [Referências bibliográficas](https://docs.google.com/presentation/d/1Mn1iD-fOEE72bpM6uzbFolsyRM5Yb-xg1IVHFl9Cl0A/edit?usp=view), [Página da disciplina no github](https://github.com/monteiro74/aulas_2026_2/blob/main/TCC1/plano_de_ensino.md), [Vídeo da aula 1](https://youtu.be/bV5h3dXoTOw). <br>  |
-|  2  |  | 3hs  | Processo KDD, Mineração x aprendizado de máquina, processo CRISP DM. [Slides sobre KDD](https://docs.google.com/presentation/d/1AYFfFvGac4QfiLIw69hpMyH2KKAh3bWxnxxNAUm6IVc/edit?usp=view), [Vídeo sobre KDD](https://youtu.be/gKsx8wj5G0U), [Slides sobre CRISP](https://docs.google.com/presentation/d/1EzpoY5DvfC9gsml4NZbDhH-MsZXwmCIqOtf3nzkX1xQ/edit?usp=view), [Vídeo sobre CRISP](https://youtu.be/LeEjfytPfeg).<br> |
-|  3  |  | 3hs  | Exercício com dados abertos. Exercíco de importação de dados. |
-|  4  |  | 3hs  | [Video sobre OLTP, OLAP e DW](https://youtu.be/RKdK8k6V_-I), [Slides sobre OLTP, OLAP e DW](https://docs.google.com/presentation/d/1ryImZ0MpoXmBYqzV6r3nfKnFQcH4qa-kkQtJREhTCQ0/edit?usp=view), [Vídeo sobre dados abertos](https://youtu.be/yxjwb9Zg2sU), [Slides sobre dados abertos](https://docs.google.com/presentation/d/1SQBSXMpv2BZg3cTwrPrLLKc_oe7bza00a4PQ0XjO4Nc/edit?usp=view), [Vídeo sobre 5v](https://youtu.be/8-1Q0y88lP8), [Slides sobre 5v](https://docs.google.com/presentation/d/150Vuv6sKs7VO1r_y-kqdCn6JJFRbvovIKuJnudEsRhE/edit?usp=view), [Vídeo sobre limpeza de dados](https://youtu.be/hFh-sdLgay4), [Slides sobre limpeza de dados](https://docs.google.com/presentation/d/1YP4mUETrl7aAm5FSVJU_CxbaBATb-C-g0ukwsGlCsfY/edit?usp=view). |
-|  5  |  | 3hs  | **Avaliação 1.** |
-|  6  |  | 3hs  | Análise de texto/sentimentos com Orange, dados abertos. 5 V. |
-|  7  |  | 3hs  | Agrupamento ou clustering e classificação, DW e dados abertos, Ferramentas de IA local Pentaho CE. |
+|  1  |  | 3hs | [Slides da aula 1](https://docs.google.com/presentation/d/1bf2nVRggSYgTmzqM9s-kYssAW016gKI064L-LAG8o9Y/edit?usp=view), [Referências bibliográficas](https://docs.google.com/presentation/d/1Mn1iD-fOEE72bpM6uzbFolsyRM5Yb-xg1IVHFl9Cl0A/edit?usp=view), [Página da disciplina no github](https://github.com/monteiro74/aulas_2026_2/blob/main/TCC1/plano_de_ensino.md), [Vídeo da aula 1](https://youtu.be/bV5h3dXoTOw).  |
+|  2  |  | 3hs  |  |
+|  3  |  | 3hs  | |
+|  4  |  | 3hs  | |
+|  5  |  | 3hs  | |
+|  6  |  | 3hs  | |
+|  7  |  | 3hs  | |
 |  8  |  | 3hs | Enriquecimento de dados, big data, Pentaho, virtualização. Bigdata, Enriquecimento de dados, Virtualização de dados. banco_origem ou banco de produção, banco_destino ou floco de neve, DER dos dados abaertos da RF, Análise de sentimento.  |
 |  9  |  | 3hs  |  Análise de redes sociais, Bibliometria,  Grafana e Superset, openRefine, Catálogo, orquestração, Darkdata e datalineage,  Material (vídeo) sobre análise de sentimentos e twitter com Orange Análise de sentimentos com o Orange: Percorrendo um texto Text Mining: Sentiment Analysis  Text Mining: Twitter Data Analysis. |
 | 10  |  | 3hs  | **Avaliação 2.** |
